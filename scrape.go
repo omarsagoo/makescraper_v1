@@ -9,10 +9,17 @@ import (
 	"github.com/gocolly/colly"
 )
 
-type data struct {
+type childData struct {
 	Title  string `json:"title"`
 	Author string `json:"author"`
 	Link   string `json:"link"`
+}
+
+type data struct {
+	Title   string      `json:"title"`
+	Author  string      `json:"author"`
+	Link    string      `json:"link"`
+	Related []childData `json:"related"`
 }
 
 type dataJSON struct {
@@ -27,32 +34,40 @@ func main() {
 	c := colly.NewCollector()
 
 	webLink := "https://news.google.com/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRFp0Y1RjU0FtVnVHZ0pWVXlnQVAB?hl=en-US&gl=US&ceid=US%3Aen"
-	titleSelector := "#tabCAQqKggAKiYICiIgQ0JBU0Vnb0lMMjB2TURadGNUY1NBbVZ1R2dKVlV5Z0FQAQ > div > div > main > c-wiz > div > div > main > div.lBwEZb.BL5WZb.GndZbb > div > div > article > h3 > a"
-	authorSelector := "#tabCAQqKggAKiYICiIgQ0JBU0Vnb0lMMjB2TURadGNUY1NBbVZ1R2dKVlV5Z0FQAQ > div > div > main > c-wiz > div > div > main > div.lBwEZb.BL5WZb.GndZbb > div > div > article > div.QmrVtf.RD0gLb > div.SVJrMe > a"
-
+	cardSelector := "div > div > main > c-wiz > div > div > main > div.lBwEZb.BL5WZb.GndZbb > div:nth-child(1)"
+	// relatedSelector := "#tabCAQqKggAKiYICiIgQ0JBU0Vnb0lMMjB2TURadGNUY1NBbVZ1R2dKVlV5Z0FQAQ > div > div > main > c-wiz > div > div > main > div.lBwEZb.BL5WZb.GndZbb > div:nth-child(1) > div > div.SbNwzf"
+	// selectorTest := "#tabCAQqKggAKiYICiIgQ0JBU0Vnb0lMMjB2TURadGNUY1NBbVZ1R2dKVlV5Z0FQAQ > div > div > main > c-wiz > div > div > main > div.lBwEZb.BL5WZb.GndZbb > div:nth-child(1) > div > div.SbNwzf > article:nth-child(1) > h4"
+	// #tabCAQqKggAKiYICiIgQ0JBU0Vnb0lMMjB2TURadGNUY1NBbVZ1R2dKVlV5Z0FQAQ > div > div > main > c-wiz > div > div > main > div.lBwEZb.BL5WZb.GndZbb > div:nth-child(1) > div > div.SbNwzf > article:nth-child(1) > a
 	var datalist []data
-	var linkList []string
-	var titleList []string
-	var authorList []string
-	var bodyList []string
-	// On every a element which has href attribute call callback
-	c.OnHTML(titleSelector, func(e *colly.HTMLElement) {
-		link := "news.google.com" + e.Attr("href")
-		linkList = append(linkList, link)
-		titleList = append(titleList, e.Text)
+	var d data
 
-		g := colly.NewCollector()
-		g.OnHTML("p", func(e *colly.HTMLElement) {
-			bodyList = append(bodyList, e.Text)
+	c.OnHTML(cardSelector, func(e *colly.HTMLElement) {
+		var link string
+		var title string
+		var author string
+		var relatedList []childData
+
+		mainTitle := e.ChildText("div > article > h3 > a")
+		mainLink := "https://news.google.com" + e.ChildAttr("div > a", "href")[1:]
+		mainAuthor := e.ChildText("a + article > div.QmrVtf.RD0gLb > div > a")
+
+		e.ForEach("div > div > article + div > article", func(_ int, h *colly.HTMLElement) {
+
+			link = "https://news.google.com" + h.ChildAttr("a", "href")[1:]
+			title = h.ChildText("h4 > a")
+			author = h.ChildText("div > div > a")
+			p := childData{Link: link, Title: title, Author: author}
+			relatedList = append(relatedList, p)
 		})
-		g.Visit(link)
-		// fmt.Printf("Link found: %q -> %s\n", e.Text, link)
-
+		// relatedDataStruct = append(relatedDataStruct, relatedList...)
+		// jsonStruct, err := json.MarshalIndent(relatedDataStruct, "", "	")
+		// if err != nil {
+		// 	panic(err)
+		// }
+		d = data{Title: mainTitle, Link: mainLink, Author: mainAuthor, Related: relatedList}
+		datalist = append(datalist, d)
 	})
 
-	c.OnHTML(authorSelector, func(e *colly.HTMLElement) {
-		authorList = append(authorList, e.Text)
-	})
 	// // Before making a request print "Visiting ..."
 	c.OnRequest(func(r *colly.Request) {
 		fmt.Println("Visiting", r.URL.String())
@@ -69,12 +84,7 @@ func main() {
 	// Start scraping on https://hackerspaces.org
 	c.Visit(webLink)
 
-	length := len(bodyList)
-
-	for i := 0; i < length; i++ {
-		d := data{Title: titleList[i], Author: authorList[i], Link: linkList[0][1:]}
-		datalist = append(datalist, d)
-	}
+	// fmt.Println(len(bodyList))
 
 	ls := dataJSON{DataArr: datalist}
 
@@ -82,6 +92,7 @@ func main() {
 	if err != nil {
 		panic(err)
 	}
+
 	err = ioutil.WriteFile("output.json", DataJSONarr, 0644)
 	if err != nil {
 		panic(err)
