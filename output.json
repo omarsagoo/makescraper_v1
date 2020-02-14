@@ -1,31 +1,1224 @@
 {
-	"data": [
+	"science": [
 		{
-			"title": "Scientists find evidence of 'ghost population' of ancient humans",
-			"author": "The Guardian",
-			"link": "https://news.google.com/articles/CAIiEKEDrrcX5Q8v26su7X2E4TcqFggEKg4IACoGCAowl6p7MN-zCTDlkko?hl=en-US\u0026gl=US\u0026ceid=US%3Aen",
+			"relatedTitle": "Mysterious Object Beyond Pluto Could Help Explain How Our Solar System Formed",
+			"relatedAuthor": "Gizmodo",
+			"relatedLink": "https://news.google.com/articles/CAIiEC4d7yDbT6XIdQisvbDtXQsqFggEKg0IACoGCAowlIECMLBMMJnrngY?hl=en-US\u0026gl=US\u0026ceid=US%3Aen",
+			"Date": "2020-02-13",
 			"related": [
 				{
-					"title": "'Ghost' DNA In West Africans Complicates Story Of Human Origins",
-					"author": "NPR",
-					"link": "https://news.google.com/articles/CAIiEC2EsftYPb3LTNGqel6Muw0qFggEKg4IACoGCAow9vBNMK3UCDCvpUk?hl=en-US\u0026gl=US\u0026ceid=US%3Aen"
+					"relatedTitle": "New Horizons images of Arrokoth show building blocks for planets",
+					"relatedAuthor": "The Washington Post",
+					"relatedLink": "https://news.google.com/articles/CAIiEK1skcTZxv6DAtrTHD0eG5UqGAgEKg8IACoHCAowjtSUCjC30XQwv4e9Bg?hl=en-US\u0026gl=US\u0026ceid=US%3Aen",
+					"relatedDate": "2020-02-13"
 				},
 				{
-					"title": "Some West Africans may have genes from an ancient ‘ghost’ hominid",
-					"author": "Science News",
-					"link": "https://news.google.com/articles/CBMiX2h0dHBzOi8vd3d3LnNjaWVuY2VuZXdzLm9yZy9hcnRpY2xlL3NvbWUtd2VzdC1hZnJpY2Fucy1tYXktaGF2ZS1kbmEtZ2VuZXMtYW5jaWVudC1naG9zdC1ob21pbmlk0gFjaHR0cHM6Ly93d3cuc2NpZW5jZW5ld3Mub3JnL2FydGljbGUvc29tZS13ZXN0LWFmcmljYW5zLW1heS1oYXZlLWRuYS1nZW5lcy1hbmNpZW50LWdob3N0LWhvbWluaWQvYW1w?hl=en-US\u0026gl=US\u0026ceid=US%3Aen"
+					"relatedTitle": "Distant object in our solar system could show how planets form, scientists reveal",
+					"relatedAuthor": "CNN",
+					"relatedLink": "https://news.google.com/articles/CAIiEKqqvy2Ht9SnTceDRkXqu_oqGQgEKhAIACoHCAowocv1CjCSptoCMPrTpgU?hl=en-US\u0026gl=US\u0026ceid=US%3Aen",
+					"relatedDate": "2020-02-13"
 				},
 				{
-					"title": "Ghost DNA Hints at Africa’s Missing Ancient Humans",
-					"author": "The New York Times",
-					"link": "https://news.google.com/articles/CAIiELIwqH0fNF3_Cmyp7hPmyqoqFwgEKg8IACoHCAowjuuKAzCWrzwwxoIY?hl=en-US\u0026gl=US\u0026ceid=US%3Aen"
+					"relatedTitle": "New Horizons spacecraft 'alters theory of planet formation'",
+					"relatedAuthor": "BBC News",
+					"relatedLink": "https://news.google.com/articles/CBMiNWh0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy9zY2llbmNlLWVudmlyb25tZW50LTUxMjk1MzY10gE5aHR0cHM6Ly93d3cuYmJjLmNvbS9uZXdzL2FtcC9zY2llbmNlLWVudmlyb25tZW50LTUxMjk1MzY1?hl=en-US\u0026gl=US\u0026ceid=US%3Aen",
+					"relatedDate": "2020-02-13"
 				},
 				{
-					"title": "‘Ghost’ ancestor detected in DNA of today’s West Africans",
-					"author": "Haaretz",
-					"link": "https://news.google.com/articles/CBMibmh0dHBzOi8vd3d3LmhhYXJldHouY29tL2FyY2hhZW9sb2d5Ly5wcmVtaXVtLWdob3N0LWFuY2VzdG9yLWRldGVjdGVkLWluLWRuYS1vZi10b2RheS1zLXdlc3QtYWZyaWNhbnMtMS44NTI2ODg30gFyaHR0cHM6Ly93d3cuaGFhcmV0ei5jb20vYW1wL2FyY2hhZW9sb2d5Ly5wcmVtaXVtLWdob3N0LWFuY2VzdG9yLWRldGVjdGVkLWluLWRuYS1vZi10b2RheS1zLXdlc3QtYWZyaWNhbnMtMS44NTI2ODg3?hl=en-US\u0026gl=US\u0026ceid=US%3Aen"
+					"relatedTitle": "Most distant world visited from Earth comes into focus",
+					"relatedAuthor": "Financial Times",
+					"relatedLink": "https://news.google.com/articles/CAIiEPBwSI0bKuk3hSSFLgpwkbEqGAgEKg8IACoHCAow-4fWBzD4z0gw_fCpBg?hl=en-US\u0026gl=US\u0026ceid=US%3Aen",
+					"relatedDate": "2020-02-13"
 				}
 			]
+		},
+		{
+			"relatedTitle": "Extinct South American giant turtle had 10-foot-wide horned shell",
+			"relatedAuthor": "UPI News",
+			"relatedLink": "https://news.google.com/articles/CAIiEBE9nzSOD3xr1kFE2cobKrUqFwgEKg8IACoHCAowyrnjAjC42xsww6sl?hl=en-US\u0026gl=US\u0026ceid=US%3Aen",
+			"Date": "2020-02-13",
+			"related": [
+				{
+					"relatedTitle": "Biggest turtle that ever lived had 10 foot shell with horns",
+					"relatedAuthor": "CNN",
+					"relatedLink": "https://news.google.com/articles/CAIiEMIMLuPjXpl7g2vX_Pk2rRgqGQgEKhAIACoHCAowocv1CjCSptoCMPrTpgU?hl=en-US\u0026gl=US\u0026ceid=US%3Aen",
+					"relatedDate": "2020-02-12"
+				},
+				{
+					"relatedTitle": "This may be the biggest turtle that ever lived",
+					"relatedAuthor": "Livescience.com",
+					"relatedLink": "https://news.google.com/articles/CBMiPmh0dHBzOi8vd3d3LmxpdmVzY2llbmNlLmNvbS9sYXJnZXN0LXR1cnRsZS1zaGVsbC1vbi1lYXJ0aC5odG1s0gFCaHR0cHM6Ly93d3cubGl2ZXNjaWVuY2UuY29tL2FtcC9sYXJnZXN0LXR1cnRsZS1zaGVsbC1vbi1lYXJ0aC5odG1s?hl=en-US\u0026gl=US\u0026ceid=US%3Aen",
+					"relatedDate": "2020-02-13"
+				},
+				{
+					"relatedTitle": "See the fossil shell: This extinct turtle was truly enormous",
+					"relatedAuthor": "Futurity: Research News",
+					"relatedLink": "https://news.google.com/articles/CBMiTGh0dHBzOi8vd3d3LmZ1dHVyaXR5Lm9yZy9zdHVwZW5kZW15cy1naWFudC10dXJ0bGUtZm9zc2lsLWNhcmFwYWNlLTIyODA1MDItMi_SAQA?hl=en-US\u0026gl=US\u0026ceid=US%3Aen",
+					"relatedDate": "2020-02-13"
+				},
+				{
+					"relatedTitle": "Largest turtle that ever lived had a shell with horns",
+					"relatedAuthor": "ZME Science",
+					"relatedLink": "https://news.google.com/articles/CBMiZmh0dHBzOi8vd3d3LnptZXNjaWVuY2UuY29tL3NjaWVuY2UvbmV3cy1zY2llbmNlL2xhcmdlc3QtdHVydGxlLXRoYXQtZXZlci1saXZlZC1oYWQtYS1zaGVsbC13aXRoLWhvcm5zL9IBamh0dHBzOi8vd3d3LnptZXNjaWVuY2UuY29tL3NjaWVuY2UvbmV3cy1zY2llbmNlL2xhcmdlc3QtdHVydGxlLXRoYXQtZXZlci1saXZlZC1oYWQtYS1zaGVsbC13aXRoLWhvcm5zL2FtcC8?hl=en-US\u0026gl=US\u0026ceid=US%3Aen",
+					"relatedDate": "2020-02-13"
+				}
+			]
+		},
+		{
+			"relatedTitle": "Forget Coronavirus: This ‘Earth Destroyer’ Asteroid Could Kill You First",
+			"relatedAuthor": "CCN.com",
+			"relatedLink": "https://news.google.com/articles/CBMiWmh0dHBzOi8vd3d3LmNjbi5jb20vZm9yZ2V0LWNvcm9uYXZpcnVzLXRoaXMtZWFydGgtZGVzdHJveWVyLWFzdGVyb2lkLWNvdWxkLWtpbGwteW91LWZpcnN0L9IBWmh0dHBzOi8vd3d3LmNjbi5jb20vZm9yZ2V0LWNvcm9uYXZpcnVzLXRoaXMtZWFydGgtZGVzdHJveWVyLWFzdGVyb2lkLWNvdWxkLWtpbGwteW91LWZpcnN0Lw?hl=en-US\u0026gl=US\u0026ceid=US%3Aen",
+			"Date": "2020-02-13",
+			"related": [
+				{
+					"relatedTitle": "NASA Spots 'Potentially Hazardous' Asteroid Rapidly Approaching Earth - IGN",
+					"relatedAuthor": "IGN",
+					"relatedLink": "https://news.google.com/articles/CBMiYGh0dHBzOi8vd3d3Lmlnbi5jb20vYXJ0aWNsZXMvbmFzYS1zcG90cy1wb3RlbnRpYWxseS1oYXphcmRvdXMtYXN0ZXJvaWQtcmFwaWRseS1hcHByb2FjaGluZy1lYXJ0aNIBZmh0dHBzOi8vd3d3Lmlnbi5jb20vYXJ0aWNsZXMvbmFzYS1zcG90cy1wb3RlbnRpYWxseS1oYXphcmRvdXMtYXN0ZXJvaWQtcmFwaWRseS1hcHByb2FjaGluZy1lYXJ0aD9hbXA9MQ?hl=en-US\u0026gl=US\u0026ceid=US%3Aen",
+					"relatedDate": "2020-02-13"
+				},
+				{
+					"relatedTitle": "Scientists just watched a newfound asteroid zoom by Earth. Then they saw its moon.",
+					"relatedAuthor": "Space.com",
+					"relatedLink": "https://news.google.com/articles/CBMiSGh0dHBzOi8vd3d3LnNwYWNlLmNvbS9uZWFyLWVhcnRoLWJpbmFyeS1hc3Rlcm9pZC0yMDIwLWJ4MTItaGFzLW1vb24uaHRtbNIBTGh0dHBzOi8vd3d3LnNwYWNlLmNvbS9hbXAvbmVhci1lYXJ0aC1iaW5hcnktYXN0ZXJvaWQtMjAyMC1ieDEyLWhhcy1tb29uLmh0bWw?hl=en-US\u0026gl=US\u0026ceid=US%3Aen",
+					"relatedDate": "2020-02-13"
+				},
+				{
+					"relatedTitle": "Giant asteroid that could ‘trigger nuclear winter’ speeding toward Earth at 34,000 mph",
+					"relatedAuthor": "Boston News, Weather, Sports | WHDH 7News",
+					"relatedLink": "https://news.google.com/articles/CBMiamh0dHBzOi8vd2hkaC5jb20vbmV3cy9naWFudC1hc3Rlcm9pZC10aGF0LWNvdWxkLXRyaWdnZXItbnVjbGVhci13aW50ZXItc3BlZWRpbmctdG93YXJkLWVhcnRoLWF0LTM0MDAwLW1waC_SAW5odHRwczovL3doZGguY29tL25ld3MvZ2lhbnQtYXN0ZXJvaWQtdGhhdC1jb3VsZC10cmlnZ2VyLW51Y2xlYXItd2ludGVyLXNwZWVkaW5nLXRvd2FyZC1lYXJ0aC1hdC0zNDAwMC1tcGgvYW1wLw?hl=en-US\u0026gl=US\u0026ceid=US%3Aen",
+					"relatedDate": "2020-02-13"
+				},
+				{
+					"relatedTitle": "NASA: Massive asteroid close call due Saturday, but won’t be hitting Earth",
+					"relatedAuthor": "Boston Herald",
+					"relatedLink": "https://news.google.com/articles/CBMieWh0dHBzOi8vd3d3LmJvc3RvbmhlcmFsZC5jb20vMjAyMC8wMi8xMy9uYXNhLW1hc3NpdmUtYXN0ZXJvaWQtY2xvc2UtY2FsbC1zYXR1cmRheS1idXQtbGl0dGxlLWxpa2VsaWhvb2Qtb2YtaGl0dGluZy1lYXJ0aC_SAX1odHRwczovL3d3dy5ib3N0b25oZXJhbGQuY29tLzIwMjAvMDIvMTMvbmFzYS1tYXNzaXZlLWFzdGVyb2lkLWNsb3NlLWNhbGwtc2F0dXJkYXktYnV0LWxpdHRsZS1saWtlbGlob29kLW9mLWhpdHRpbmctZWFydGgvYW1wLw?hl=en-US\u0026gl=US\u0026ceid=US%3Aen",
+					"relatedDate": "2020-02-13"
+				}
+			]
+		},
+		{
+			"relatedTitle": "Mysterious 'ghost population' of ancient humans discovered",
+			"relatedAuthor": "CNN",
+			"relatedLink": "https://news.google.com/articles/CAIiECRr68eiAWY6ggmWLDgHq3gqGQgEKhAIACoHCAowocv1CjCSptoCMPvTpgU?hl=en-US\u0026gl=US\u0026ceid=US%3Aen",
+			"Date": "2020-02-13",
+			"related": [
+				{
+					"relatedTitle": "'Ghost' DNA In West Africans Complicates Story Of Human Origins",
+					"relatedAuthor": "NPR",
+					"relatedLink": "https://news.google.com/articles/CAIiEC2EsftYPb3LTNGqel6Muw0qFggEKg4IACoGCAow9vBNMK3UCDDq0Rc?hl=en-US\u0026gl=US\u0026ceid=US%3Aen",
+					"relatedDate": "2020-02-12"
+				},
+				{
+					"relatedTitle": "'Ghost' DNA found in some West African people",
+					"relatedAuthor": "Phys.org",
+					"relatedLink": "https://news.google.com/articles/CAIiEKU3GFY1X13IXiElgRyb7qcqGAgEKg8IACoHCAowpbDpAzCm_hww4PzGBg?hl=en-US\u0026gl=US\u0026ceid=US%3Aen",
+					"relatedDate": "2020-02-13"
+				},
+				{
+					"relatedTitle": "Scientists find evidence of 'ghost population' of ancient humans",
+					"relatedAuthor": "The Guardian",
+					"relatedLink": "https://news.google.com/articles/CAIiEKEDrrcX5Q8v26su7X2E4TcqFggEKg4IACoGCAowl6p7MN-zCTDlkko?hl=en-US\u0026gl=US\u0026ceid=US%3Aen",
+					"relatedDate": "2020-02-12"
+				},
+				{
+					"relatedTitle": "'Ghost population' of ancient humans may have mated with ancestors of modern humans",
+					"relatedAuthor": "USA TODAY",
+					"relatedLink": "https://news.google.com/articles/CAIiEMt2b4NKJyEUy7bzO28LEXsqGQgEKhAIACoHCAowjsP7CjCSpPQCMM_b5QU?hl=en-US\u0026gl=US\u0026ceid=US%3Aen",
+					"relatedDate": "2020-02-13"
+				}
+			]
+		},
+		{
+			"relatedTitle": "Ancient Antarctic ice melt made sea levels rise almost 10 feet some 129,000 years ago",
+			"relatedAuthor": "Fox News",
+			"relatedLink": "https://news.google.com/articles/CBMieWh0dHBzOi8vd3d3LmZveG5ld3MuY29tL3NjaWVuY2UvYW5jaWVudC1hbnRhcmN0aWMtaWNlLW1lbHQtbWFkZS1zZWEtbGV2ZWxzLXJpc2UtYWxtb3N0LTEwLWZlZXQtbW9yZS10aGFuLTEyOTAwMC15ZWFycy1hZ2_SAX1odHRwczovL3d3dy5mb3huZXdzLmNvbS9zY2llbmNlL2FuY2llbnQtYW50YXJjdGljLWljZS1tZWx0LW1hZGUtc2VhLWxldmVscy1yaXNlLWFsbW9zdC0xMC1mZWV0LW1vcmUtdGhhbi0xMjkwMDAteWVhcnMtYWdvLmFtcA?hl=en-US\u0026gl=US\u0026ceid=US%3Aen",
+			"Date": "2020-02-13",
+			"related": [
+				{
+					"relatedTitle": "Ancient Antarctic Ice Melt Increased Sea Levels by Over 3 Meters — and We’re Headed There Again",
+					"relatedAuthor": "SciTechDaily",
+					"relatedLink": "https://news.google.com/articles/CBMidmh0dHBzOi8vc2NpdGVjaGRhaWx5LmNvbS9hbmNpZW50LWFudGFyY3RpYy1pY2UtbWVsdC1pbmNyZWFzZWQtc2VhLWxldmVscy1ieS1vdmVyLTMtbWV0ZXJzLWFuZC13ZXJlLWhlYWRlZC10aGVyZS1hZ2Fpbi_SAXpodHRwczovL3NjaXRlY2hkYWlseS5jb20vYW5jaWVudC1hbnRhcmN0aWMtaWNlLW1lbHQtaW5jcmVhc2VkLXNlYS1sZXZlbHMtYnktb3Zlci0zLW1ldGVycy1hbmQtd2VyZS1oZWFkZWQtdGhlcmUtYWdhaW4vYW1wLw?hl=en-US\u0026gl=US\u0026ceid=US%3Aen",
+					"relatedDate": "2020-02-13"
+				},
+				{
+					"relatedTitle": "Researchers warn that ancient Antarctic ice melt fueled sea-level rise — and it could happen again",
+					"relatedAuthor": "The Boston Globe",
+					"relatedLink": "https://news.google.com/articles/CBMiigFodHRwczovL3d3dy5ib3N0b25nbG9iZS5jb20vMjAyMC8wMi8xMy9tZXRyby9yZXNlYXJjaGVycy13YXJuLXRoYXQtYW5jaWVudC1hbnRhcmN0aWMtaWNlLW1lbHQtZnVlbGVkLXNlYS1sZXZlbC1yaXNlLWl0LWNvdWxkLWhhcHBlbi1hZ2Fpbi_SAZkBaHR0cHM6Ly93d3cuYm9zdG9uZ2xvYmUuY29tLzIwMjAvMDIvMTMvbWV0cm8vcmVzZWFyY2hlcnMtd2Fybi10aGF0LWFuY2llbnQtYW50YXJjdGljLWljZS1tZWx0LWZ1ZWxlZC1zZWEtbGV2ZWwtcmlzZS1pdC1jb3VsZC1oYXBwZW4tYWdhaW4vP291dHB1dFR5cGU9YW1w?hl=en-US\u0026gl=US\u0026ceid=US%3Aen",
+					"relatedDate": "2020-02-13"
+				},
+				{
+					"relatedTitle": "Life without ice",
+					"relatedAuthor": "Science Magazine",
+					"relatedLink": "https://news.google.com/articles/CBMiM2h0dHBzOi8vc2NpZW5jZS5zY2llbmNlbWFnLm9yZy9jb250ZW50LzM2Ny82NDc5LzcxOdIBAA?hl=en-US\u0026gl=US\u0026ceid=US%3Aen",
+					"relatedDate": "2020-02-13"
+				},
+				{
+					"relatedTitle": "The Antarctica Factor: model uncertainties reveal upcoming sea level risk",
+					"relatedAuthor": "SciTechDaily",
+					"relatedLink": "https://news.google.com/articles/CBMiYmh0dHBzOi8vc2NpdGVjaGRhaWx5LmNvbS90aGUtYW50YXJjdGljYS1mYWN0b3ItbW9kZWwtdW5jZXJ0YWludGllcy1yZXZlYWwtdXBjb21pbmctc2VhLWxldmVsLXJpc2sv0gFmaHR0cHM6Ly9zY2l0ZWNoZGFpbHkuY29tL3RoZS1hbnRhcmN0aWNhLWZhY3Rvci1tb2RlbC11bmNlcnRhaW50aWVzLXJldmVhbC11cGNvbWluZy1zZWEtbGV2ZWwtcmlzay9hbXAv?hl=en-US\u0026gl=US\u0026ceid=US%3Aen",
+					"relatedDate": "2020-02-13"
+				}
+			]
+		},
+		{
+			"relatedTitle": "NASA Astronaut Reunites With Her Dog After 328 Days In Space",
+			"relatedAuthor": "HuffPost",
+			"relatedLink": "https://news.google.com/publications/CAAqBggKMMWIAjCATQ?hl=en-US\u0026gl=US\u0026ceid=US%3Aen",
+			"Date": "2020-02-13",
+			"related": [
+				{
+					"relatedTitle": "Wanted: New astronauts for Nasa Moon mission",
+					"relatedAuthor": "BBC News",
+					"relatedLink": "https://news.google.com/articles/CBMiMWh0dHBzOi8vd3d3LmJiYy5jb20vbmV3cy93b3JsZC11cy1jYW5hZGEtNTE0ODc4NzHSATVodHRwczovL3d3dy5iYmMuY29tL25ld3MvYW1wL3dvcmxkLXVzLWNhbmFkYS01MTQ4Nzg3MQ?hl=en-US\u0026gl=US\u0026ceid=US%3Aen",
+					"relatedDate": "2020-02-13"
+				},
+				{
+					"relatedTitle": "Christina Koch having no problems re-adapting to Earth after record space flight",
+					"relatedAuthor": "Spaceflight Now",
+					"relatedLink": "https://news.google.com/articles/CBMid2h0dHBzOi8vc3BhY2VmbGlnaHRub3cuY29tLzIwMjAvMDIvMTIvY2hyaXN0aW5hLWtvY2gtaGF2aW5nLW5vLXByb2JsZW1zLXJlLWFkYXB0aW5nLXRvLWVhcnRoLWFmdGVyLXJlY29yZC1zcGFjZS1mbGlnaHQv0gEA?hl=en-US\u0026gl=US\u0026ceid=US%3Aen",
+					"relatedDate": "2020-02-13"
+				},
+				{
+					"relatedTitle": "Little Brown Dog is overjoyed by astronaut's return home",
+					"relatedAuthor": "NBC News",
+					"relatedLink": "https://news.google.com/articles/CAIiEFY0lvOyHul-t9pAdxmT2tAqGQgEKhAIACoHCAowvIaCCzDnxf4CMN2F8gU?hl=en-US\u0026gl=US\u0026ceid=US%3Aen",
+					"relatedDate": "2020-02-13"
+				},
+				{
+					"relatedTitle": "Astronaut Christina Koch reflects on her record-breaking mission: 'Do what scares you'",
+					"relatedAuthor": "CNN",
+					"relatedLink": "https://news.google.com/articles/CAIiEHSfCOyWfuy3bYXrmLIzECEqGQgEKhAIACoHCAowocv1CjCSptoCMPvTpgU?hl=en-US\u0026gl=US\u0026ceid=US%3Aen",
+					"relatedDate": "2020-02-12"
+				}
+			]
+		},
+		{
+			"relatedTitle": "Satellite images show iceberg bigger than Seattle break away from Antarctic glacier",
+			"relatedAuthor": "CBS News",
+			"relatedLink": "https://news.google.com/articles/CAIiEJTzBR5LO6JiNObnA-62M1AqGQgEKhAIACoHCAowyNj6CjDyiPICMKb_xAU?hl=en-US\u0026gl=US\u0026ceid=US%3Aen",
+			"Date": "2020-02-13",
+			"related": null
+		},
+		{
+			"relatedTitle": "Study uncovers new electronic state of matter",
+			"relatedAuthor": "Phys.org",
+			"relatedLink": "https://news.google.com/articles/CAIiEExVREdUexjVt5W3vz1pRWoqGAgEKg8IACoHCAowpbDpAzCm_hww3eXGBg?hl=en-US\u0026gl=US\u0026ceid=US%3Aen",
+			"Date": "2020-02-13",
+			"related": null
+		},
+		{
+			"relatedTitle": "Mars 2020 Rover: Curiosity's Hi-Tech Twin Is Strapped For Science; Includes A Flying Drone",
+			"relatedAuthor": "Hackaday",
+			"relatedLink": "https://news.google.com/articles/CBMieGh0dHBzOi8vaGFja2FkYXkuY29tLzIwMjAvMDIvMTMvbWFycy0yMDIwLXJvdmVyLWN1cmlvc2l0eXMtaGktdGVjaC10d2luLWlzLXN0cmFwcGVkLWZvci1zY2llbmNlLWluY2x1ZGVzLWEtZmx5aW5nLWRyb25lL9IBAA?hl=en-US\u0026gl=US\u0026ceid=US%3Aen",
+			"Date": "2020-02-13",
+			"related": [
+				{
+					"relatedTitle": "Countdown to Mars 2020: NASA rover makes final journey before July launch",
+					"relatedAuthor": "Inverse",
+					"relatedLink": "https://news.google.com/articles/CAIiEK0rMuqtgrZsat71bj-ZcYgqGQgEKhAIACoHCAowvfmRCzCeoqcDMJb_ugY?hl=en-US\u0026gl=US\u0026ceid=US%3Aen",
+					"relatedDate": "2020-02-13"
+				},
+				{
+					"relatedTitle": "NASA's Mars 2020 Rover Goes Coast-to-Coast to Prep for Launch",
+					"relatedAuthor": "NASA Mars Exploration",
+					"relatedLink": "https://news.google.com/articles/CBMiXWh0dHBzOi8vbWFycy5uYXNhLmdvdi9uZXdzLzg2MDcvbmFzYXMtbWFycy0yMDIwLXJvdmVyLWdvZXMtY29hc3QtdG8tY29hc3QtdG8tcHJlcC1mb3ItbGF1bmNoL9IBAA?hl=en-US\u0026gl=US\u0026ceid=US%3Aen",
+					"relatedDate": "2020-02-12"
+				},
+				{
+					"relatedTitle": "Dust devil on Mars: NASA's Mars Reconnaissance Orbiter captures rare photo of active dust devil on red planet",
+					"relatedAuthor": "CBS News",
+					"relatedLink": "https://news.google.com/articles/CAIiENvVT3JlitBLZsqDDlRNdfgqGQgEKhAIACoHCAowyNj6CjDyiPICMKmYqwY?hl=en-US\u0026gl=US\u0026ceid=US%3Aen",
+					"relatedDate": "2020-02-12"
+				},
+				{
+					"relatedTitle": "How NASA will bring a little bit of Mars back to Earth",
+					"relatedAuthor": "Los Angeles Times",
+					"relatedLink": "https://news.google.com/articles/CBMiZ2h0dHBzOi8vd3d3LmxhdGltZXMuY29tL3NjaWVuY2Uvc3RvcnkvMjAyMC0wMi0xMi9ob3ctbmFzYS13aWxsLWJyaW5nLWEtbGl0dGxlLWJpdC1vZi1tYXJzLWJhY2stdG8tZWFydGjSAXFodHRwczovL3d3dy5sYXRpbWVzLmNvbS9zY2llbmNlL3N0b3J5LzIwMjAtMDItMTIvaG93LW5hc2Etd2lsbC1icmluZy1hLWxpdHRsZS1iaXQtb2YtbWFycy1iYWNrLXRvLWVhcnRoP19hbXA9dHJ1ZQ?hl=en-US\u0026gl=US\u0026ceid=US%3Aen",
+					"relatedDate": "2020-02-12"
+				}
+			]
+		},
+		{
+			"relatedTitle": "NASA releases new 'Pale Blue Dot' photo for 30th anniversary - Business Insider",
+			"relatedAuthor": "Business Insider",
+			"relatedLink": "https://news.google.com/articles/CAIiEOVyELPeF5Pr6eWyNqaUC0kqLQgEKiUIACIbd3d3LmJ1c2luZXNzaW5zaWRlci5jb20vc2FpKgQICjAMMJD-CQ?hl=en-US\u0026gl=US\u0026ceid=US%3Aen",
+			"Date": "2020-02-13",
+			"related": [
+				{
+					"relatedTitle": "NASA's iconic 'Pale Blue Dot' photo of Earth from space just got a 21st-century makeover",
+					"relatedAuthor": "Space.com",
+					"relatedLink": "https://news.google.com/articles/CBMiRWh0dHBzOi8vd3d3LnNwYWNlLmNvbS9wYWxlLWJsdWUtZG90LWVhcnRoLXNwYWNlLXBob3RvLXJlbWFzdGVyZWQuaHRtbNIBSWh0dHBzOi8vd3d3LnNwYWNlLmNvbS9hbXAvcGFsZS1ibHVlLWRvdC1lYXJ0aC1zcGFjZS1waG90by1yZW1hc3RlcmVkLmh0bWw?hl=en-US\u0026gl=US\u0026ceid=US%3Aen",
+					"relatedDate": "2020-02-12"
+				},
+				{
+					"relatedTitle": "NASA Releases Remixed Version of Iconic ‘Pale Blue Dot’ Photo",
+					"relatedAuthor": "Gizmodo",
+					"relatedLink": "https://news.google.com/articles/CAIiEPjOjhuZ8n0sZAS6k93KJzMqFggEKg0IACoGCAowlIECMLBMMMrvngY?hl=en-US\u0026gl=US\u0026ceid=US%3Aen",
+					"relatedDate": "2020-02-13"
+				},
+				{
+					"relatedTitle": "An iconic image updated",
+					"relatedAuthor": "Cosmos",
+					"relatedLink": "https://news.google.com/articles/CBMiOGh0dHBzOi8vY29zbW9zbWFnYXppbmUuY29tL3NwYWNlL2FuLWljb25pYy1pbWFnZS11cGRhdGVk0gEA?hl=en-US\u0026gl=US\u0026ceid=US%3Aen",
+					"relatedDate": "2020-02-13"
+				},
+				{
+					"relatedTitle": "Voyager — Quartz Daily Obsession",
+					"relatedAuthor": "Quartz",
+					"relatedLink": "https://news.google.com/articles/CBMiL2h0dHBzOi8vcXouY29tL2VtYWlscy9xdWFydHotb2JzZXNzaW9uLzE4MDE2MjAv0gEA?hl=en-US\u0026gl=US\u0026ceid=US%3Aen",
+					"relatedDate": "2020-02-12"
+				}
+			]
+		},
+		{
+			"relatedTitle": "Human missions to Mars will use lasers to communicate with Earth — NASA",
+			"relatedAuthor": "Inverse",
+			"relatedLink": "https://news.google.com/articles/CAIiELAGxdStkEr25DTtMgBvFaIqGQgEKhAIACoHCAowvfmRCzCeoqcDMJb_ugY?hl=en-US\u0026gl=US\u0026ceid=US%3Aen",
+			"Date": "2020-02-13",
+			"related": [
+				{
+					"relatedTitle": "NASA taking astronaut applications for the Moon, Mars",
+					"relatedAuthor": "WTHR",
+					"relatedLink": "https://news.google.com/articles/CBMiSWh0dHBzOi8vd3d3Lnd0aHIuY29tL2FydGljbGUvbmFzYS10YWtpbmctYXN0cm9uYXV0LWFwcGxpY2F0aW9ucy1tb29uLW1hcnPSAU1odHRwczovL3d3dy53dGhyLmNvbS9hcnRpY2xlL25hc2EtdGFraW5nLWFzdHJvbmF1dC1hcHBsaWNhdGlvbnMtbW9vbi1tYXJzP2FtcA?hl=en-US\u0026gl=US\u0026ceid=US%3Aen",
+					"relatedDate": "2020-02-13"
+				},
+				{
+					"relatedTitle": "NASA Explorers S4 E3: Training the Astronauts",
+					"relatedAuthor": "NASA",
+					"relatedLink": "https://news.google.com/articles/CCAiC1d2VDNoTVZyU3pzmAEB?hl=en-US\u0026gl=US\u0026ceid=US%3Aen",
+					"relatedDate": "2020-02-12"
+				},
+				{
+					"relatedTitle": "NASA reveals the 2 things you need to qualify for a trip to the Moon",
+					"relatedAuthor": "Inverse",
+					"relatedLink": "https://news.google.com/articles/CAIiEMyAbRWfLl9l6MtOG0deizoqGQgEKhAIACoHCAowvfmRCzCeoqcDMJb_ugY?hl=en-US\u0026gl=US\u0026ceid=US%3Aen",
+					"relatedDate": "2020-02-13"
+				},
+				{
+					"relatedTitle": "Space Is Getting Pretty Crowded, So NASA Better Build a New Antenna",
+					"relatedAuthor": "Popular Mechanics",
+					"relatedLink": "https://news.google.com/articles/CBMiYmh0dHBzOi8vd3d3LnBvcHVsYXJtZWNoYW5pY3MuY29tL3NwYWNlL3NvbGFyLXN5c3RlbS9hMzA4OTcwODYvbmFzYS1uZXctZGVlcC1zcGFjZS1uZXR3b3JrLWFudGVubmEv0gFkaHR0cHM6Ly93d3cucG9wdWxhcm1lY2hhbmljcy5jb20vc3BhY2Uvc29sYXItc3lzdGVtL2FtcDMwODk3MDg2L25hc2EtbmV3LWRlZXAtc3BhY2UtbmV0d29yay1hbnRlbm5hLw?hl=en-US\u0026gl=US\u0026ceid=US%3Aen",
+					"relatedDate": "2020-02-12"
+				}
+			]
+		},
+		{
+			"relatedTitle": "Fragile topology: Two new studies explain the strange electron flow in future materials",
+			"relatedAuthor": "Phys.org",
+			"relatedLink": "https://news.google.com/articles/CAIiEApXH_2l1ACwhLSnge8k1qAqFwgEKg8IACoHCAowpbDpAzCm_hwwj9kp?hl=en-US\u0026gl=US\u0026ceid=US%3Aen",
+			"Date": "2020-02-13",
+			"related": [
+				{
+					"relatedTitle": "Twisted bulk-boundary correspondence of fragile topology",
+					"relatedAuthor": "Science Magazine",
+					"relatedLink": "https://news.google.com/articles/CBMiM2h0dHBzOi8vc2NpZW5jZS5zY2llbmNlbWFnLm9yZy9jb250ZW50LzM2Ny82NDc5Lzc5NNIBAA?hl=en-US\u0026gl=US\u0026ceid=US%3Aen",
+					"relatedDate": "2020-02-13"
+				},
+				{
+					"relatedTitle": "Researchers Explain the Strange Electron Flow in Future Materials",
+					"relatedAuthor": "SciTechDaily",
+					"relatedLink": "https://news.google.com/articles/CBMiW2h0dHBzOi8vc2NpdGVjaGRhaWx5LmNvbS9yZXNlYXJjaGVycy1leHBsYWluLXRoZS1zdHJhbmdlLWVsZWN0cm9uLWZsb3ctaW4tZnV0dXJlLW1hdGVyaWFscy_SAV9odHRwczovL3NjaXRlY2hkYWlseS5jb20vcmVzZWFyY2hlcnMtZXhwbGFpbi10aGUtc3RyYW5nZS1lbGVjdHJvbi1mbG93LWluLWZ1dHVyZS1tYXRlcmlhbHMvYW1wLw?hl=en-US\u0026gl=US\u0026ceid=US%3Aen",
+					"relatedDate": "2020-02-13"
+				}
+			]
+		},
+		{
+			"relatedTitle": "Upside-down jellyfish release venom-filled snot ‘bombs,’ scientists claim",
+			"relatedAuthor": "Fox News",
+			"relatedLink": "https://news.google.com/articles/CBMiTWh0dHBzOi8vd3d3LmZveG5ld3MuY29tL3NjaWVuY2UvdXBzaWRlLWRvd24tamVsbHlmaXNoLXZlbm9tLWZpbGxlZC1ib21icy1zbm900gFRaHR0cHM6Ly93d3cuZm94bmV3cy5jb20vc2NpZW5jZS91cHNpZGUtZG93bi1qZWxseWZpc2gtdmVub20tZmlsbGVkLWJvbWJzLXNub3QuYW1w?hl=en-US\u0026gl=US\u0026ceid=US%3Aen",
+			"Date": "2020-02-13",
+			"related": [
+				{
+					"relatedTitle": "You Didn’t Touch These Jellyfish, but They Can Sting You With Tiny Grenades",
+					"relatedAuthor": "The New York Times",
+					"relatedLink": "https://news.google.com/articles/CAIiECnpTT3tDL63fpefKZe-xYYqFwgEKg8IACoHCAowjuuKAzCWrzwwxoIY?hl=en-US\u0026gl=US\u0026ceid=US%3Aen",
+					"relatedDate": "2020-02-13"
+				},
+				{
+					"relatedTitle": "Upside-Down Jellyfish Release Weaponized Goo Packed With Toxic ‘Grenades’",
+					"relatedAuthor": "Gizmodo",
+					"relatedLink": "https://news.google.com/articles/CAIiENAOaaoLYSPzMsFqkA6rflUqFggEKg0IACoGCAowlIECMLBMMJnrngY?hl=en-US\u0026gl=US\u0026ceid=US%3Aen",
+					"relatedDate": "2020-02-13"
+				},
+				{
+					"relatedTitle": "These jellyfish can sting without touching you, thanks to 'mucus grenades'",
+					"relatedAuthor": "National Geographic",
+					"relatedLink": "https://news.google.com/articles/CAIiEAkDo6_fYn44MWOIz7YETlEqGQgEKhAIACoHCAowmrWECzDc_IADMP7SgwY?hl=en-US\u0026gl=US\u0026ceid=US%3Aen",
+					"relatedDate": "2020-02-13"
+				},
+				{
+					"relatedTitle": "This is how jellyfish can sting you without even touching you",
+					"relatedAuthor": "New Scientist",
+					"relatedLink": "https://news.google.com/articles/CBMia2h0dHBzOi8vd3d3Lm5ld3NjaWVudGlzdC5jb20vYXJ0aWNsZS8yMjMzNTA1LXRoaXMtaXMtaG93LWplbGx5ZmlzaC1jYW4tc3RpbmcteW91LXdpdGhvdXQtZXZlbi10b3VjaGluZy15b3Uv0gFvaHR0cHM6Ly93d3cubmV3c2NpZW50aXN0LmNvbS9hcnRpY2xlLzIyMzM1MDUtdGhpcy1pcy1ob3ctamVsbHlmaXNoLWNhbi1zdGluZy15b3Utd2l0aG91dC1ldmVuLXRvdWNoaW5nLXlvdS9hbXAv?hl=en-US\u0026gl=US\u0026ceid=US%3Aen",
+					"relatedDate": "2020-02-13"
+				}
+			]
+		},
+		{
+			"relatedTitle": "Mysterious fast radio burst repeats in 16-day rhythm",
+			"relatedAuthor": "EarthSky",
+			"relatedLink": "https://news.google.com/articles/CBMiT2h0dHBzOi8vZWFydGhza3kub3JnL3NwYWNlL215c3RlcmlvdXMtZmFzdC1yYWRpby1idXJzdC1yZXBlYXRzLWluLTE2LWRheS1yaHl0aG3SAQA?hl=en-US\u0026gl=US\u0026ceid=US%3Aen",
+			"Date": "2020-02-13",
+			"related": [
+				{
+					"relatedTitle": "What is a fast radio burst? What causes the signal from space?",
+					"relatedAuthor": "Vox.com",
+					"relatedLink": "https://news.google.com/articles/CAIiEEHie7fpSpf-VdAsqN97ehkqFwgEKg8IACoHCAowlOzSATCaiDUwo9dy?hl=en-US\u0026gl=US\u0026ceid=US%3Aen",
+					"relatedDate": "2020-02-13"
+				},
+				{
+					"relatedTitle": "Mysterious radio signals from deep space are reaching Earth every 16 days",
+					"relatedAuthor": "WKRN News 2",
+					"relatedLink": "https://news.google.com/articles/CBMiZGh0dHBzOi8vd3d3Lndrcm4uY29tL25ld3MvbXlzdGVyaW91cy1yYWRpby1zaWduYWxzLWZyb20tZGVlcC1zcGFjZS1hcmUtcmVhY2hpbmctZWFydGgtZXZlcnktMTYtZGF5cy_SAWhodHRwczovL3d3dy53a3JuLmNvbS9uZXdzL215c3RlcmlvdXMtcmFkaW8tc2lnbmFscy1mcm9tLWRlZXAtc3BhY2UtYXJlLXJlYWNoaW5nLWVhcnRoLWV2ZXJ5LTE2LWRheXMvYW1wLw?hl=en-US\u0026gl=US\u0026ceid=US%3Aen",
+					"relatedDate": "2020-02-13"
+				},
+				{
+					"relatedTitle": "Mysterious radio signal from outer space repeats every 16 days",
+					"relatedAuthor": "South China Morning Post",
+					"relatedLink": "https://news.google.com/articles/CAIiEOgcq2VHoss74qtNaq_AgyAqGQgEKhAIACoHCAowief2CjCJ2dUCMLiWxwU?hl=en-US\u0026gl=US\u0026ceid=US%3Aen",
+					"relatedDate": "2020-02-13"
+				},
+				{
+					"relatedTitle": "Astronomers Discover Radio Bursts From a Galaxy Far, Far Away",
+					"relatedAuthor": "The Mary Sue",
+					"relatedLink": "https://news.google.com/articles/CBMiWGh0dHBzOi8vd3d3LnRoZW1hcnlzdWUuY29tL2FzdHJvbm9tZXJzLWRpc2NvdmVyLXJhZGlvLWJ1cnN0cy1mcm9tLWEtZ2FsYXh5LWZhci1mYXItYXdheS_SAVxodHRwczovL3d3dy50aGVtYXJ5c3VlLmNvbS9hc3Ryb25vbWVycy1kaXNjb3Zlci1yYWRpby1idXJzdHMtZnJvbS1hLWdhbGF4eS1mYXItZmFyLWF3YXkvYW1wLw?hl=en-US\u0026gl=US\u0026ceid=US%3Aen",
+					"relatedDate": "2020-02-12"
+				}
+			]
+		},
+		{
+			"relatedTitle": "NASA Accepting Applications to Become an Astronaut From General Public",
+			"relatedAuthor": "Newser",
+			"relatedLink": "https://news.google.com/articles/CBMiVmh0dHBzOi8vd3d3Lm5ld3Nlci5jb20vc3RvcnkvMjg2OTE2L2hhdmUtdGhlLXJpZ2h0LXN0dWZmLWZvci1zcGFjZS1uYXNhLXdhbnRzLXlvdS5odG1s0gEA?hl=en-US\u0026gl=US\u0026ceid=US%3Aen",
+			"Date": "2020-02-13",
+			"related": null
+		},
+		{
+			"relatedTitle": "This is the most violent object in the solar system",
+			"relatedAuthor": "Livescience.com",
+			"relatedLink": "https://news.google.com/articles/CBMiQ2h0dHBzOi8vd3d3LmxpdmVzY2llbmNlLmNvbS9hc3Rlcm9pZC1wYWxsYXMtY292ZXJlZC1pbi1jcmF0ZXJzLmh0bWzSAUdodHRwczovL3d3dy5saXZlc2NpZW5jZS5jb20vYW1wL2FzdGVyb2lkLXBhbGxhcy1jb3ZlcmVkLWluLWNyYXRlcnMuaHRtbA?hl=en-US\u0026gl=US\u0026ceid=US%3Aen",
+			"Date": "2020-02-13",
+			"related": [
+				{
+					"relatedTitle": "Asteroid Pallas' violent history revealed in new images",
+					"relatedAuthor": "Fox News",
+					"relatedLink": "https://news.google.com/articles/CBMiSGh0dHBzOi8vd3d3LmZveG5ld3MuY29tL3NjaWVuY2UvYXN0ZXJvaWQtcGFsbGFzLXZpb2xlbnQtaGlzdG9yeS1yZXZlYWxlZNIBTGh0dHBzOi8vd3d3LmZveG5ld3MuY29tL3NjaWVuY2UvYXN0ZXJvaWQtcGFsbGFzLXZpb2xlbnQtaGlzdG9yeS1yZXZlYWxlZC5hbXA?hl=en-US\u0026gl=US\u0026ceid=US%3Aen",
+					"relatedDate": "2020-02-13"
+				},
+				{
+					"relatedTitle": "The Most Cratered Object in the Asteroid Belt Looks Like a Golf Ball",
+					"relatedAuthor": "Smithsonian.com",
+					"relatedLink": "https://news.google.com/articles/CAIiEPWH4-fAj7LBybpvvu4Y_KUqFQgEKg0IACoGCAow88QGMMBbMKCbCw?hl=en-US\u0026gl=US\u0026ceid=US%3Aen",
+					"relatedDate": "2020-02-13"
+				}
+			]
+		},
+		{
+			"relatedTitle": "Live coverage: SpaceX readies Falcon 9 for fifth Starlink mission",
+			"relatedAuthor": "Spaceflight Now",
+			"relatedLink": "https://news.google.com/articles/CBMiZ2h0dHBzOi8vc3BhY2VmbGlnaHRub3cuY29tLzIwMjAvMDIvMTMvbGl2ZS1jb3ZlcmFnZS1zcGFjZXgtcmVhZGllcy1mYWxjb24tOS1mb3ItZmlmdGgtc3RhcmxpbmstbWlzc2lvbi_SAQA?hl=en-US\u0026gl=US\u0026ceid=US%3Aen",
+			"Date": "2020-02-13",
+			"related": [
+				{
+					"relatedTitle": "As SpaceX Crew Dragon departs for Cape Canaveral, second quarter launch seeming likely",
+					"relatedAuthor": "Florida Today",
+					"relatedLink": "https://news.google.com/articles/CAIiEH4FOynnKr_-I409BZ8I30IqGQgEKhAIACoHCAowjsP_CjD2kPkCMOvt5wU?hl=en-US\u0026gl=US\u0026ceid=US%3Aen",
+					"relatedDate": "2020-02-13"
+				},
+				{
+					"relatedTitle": "Weekend plans? Try SpaceX's next Starlink launch from Cape Canaveral",
+					"relatedAuthor": "Florida Today",
+					"relatedLink": "https://news.google.com/articles/CAIiEJFp69czYZ-50NYdo0aPNR4qGQgEKhAIACoHCAowjsP_CjD2kPkCMOvt5wU?hl=en-US\u0026gl=US\u0026ceid=US%3Aen",
+					"relatedDate": "2020-02-13"
+				}
+			]
+		},
+		{
+			"relatedTitle": "Rocket engine test in Cocoa sends debris flying, starts fire",
+			"relatedAuthor": "WKMG News 6 \u0026 ClickOrlandoFlorida Today",
+			"relatedLink": "https://news.google.com/articles/CAIiEBzSLKPJ5pQhhG0w2FghhmUqGQgEKhAIACoHCAowjsP-CjDlzvYCMJmz3gU?hl=en-US\u0026gl=US\u0026ceid=US%3Aen",
+			"Date": "2020-02-13",
+			"related": [
+				{
+					"relatedTitle": "Rocket Crafters suffers 'anomaly' during test fire at Cocoa facility",
+					"relatedAuthor": "Florida Today",
+					"relatedLink": "https://news.google.com/articles/CAIiEDvWAtq4jIW62QcHPBu9wzcqGQgEKhAIACoHCAowjsP_CjD2kPkCMOvt5wU?hl=en-US\u0026gl=US\u0026ceid=US%3Aen",
+					"relatedDate": "2020-02-13"
+				}
+			]
+		},
+		{
+			"relatedTitle": "Quantum internet closer as physicists stretch spooky link between atoms",
+			"relatedAuthor": "Science MagazinePopular Mechanics",
+			"relatedLink": "https://news.google.com/articles/CBMibGh0dHBzOi8vd3d3LnNjaWVuY2VtYWcub3JnL25ld3MvMjAyMC8wMi9xdWFudHVtLWludGVybmV0LWNsb3Nlci1waHlzaWNpc3RzLXN0cmV0Y2gtc3Bvb2t5LWxpbmstYmV0d2Vlbi1hdG9tc9IBAA?hl=en-US\u0026gl=US\u0026ceid=US%3Aen",
+			"Date": "2020-02-13",
+			"related": [
+				{
+					"relatedTitle": "We Just Got Our Best Look Yet at the Quantum Internet of the Future",
+					"relatedAuthor": "Popular Mechanics",
+					"relatedLink": "https://news.google.com/articles/CBMiV2h0dHBzOi8vd3d3LnBvcHVsYXJtZWNoYW5pY3MuY29tL3NjaWVuY2UvZ3JlZW4tdGVjaC9hMzA5MTU2MzgvcXVhbnR1bS1tZW1vcnktZW50YW5nbGVkL9IBWWh0dHBzOi8vd3d3LnBvcHVsYXJtZWNoYW5pY3MuY29tL3NjaWVuY2UvZ3JlZW4tdGVjaC9hbXAzMDkxNTYzOC9xdWFudHVtLW1lbW9yeS1lbnRhbmdsZWQv?hl=en-US\u0026gl=US\u0026ceid=US%3Aen",
+					"relatedDate": "2020-02-13"
+				}
+			]
+		},
+		{
+			"relatedTitle": "Crucial rocket launch set for Sunday night at Wallops Island, Virginia",
+			"relatedAuthor": "AccuWeather.com",
+			"relatedLink": "https://news.google.com/articles/CBMidmh0dHBzOi8vd3d3LmFjY3V3ZWF0aGVyLmNvbS9lbi9zcGFjZS1uZXdzL2NydWNpYWwtcm9ja2V0LWxhdW5jaC1zZXQtZm9yLXN1bmRheS1uaWdodC1hdC13YWxsb3BzLWlzbGFuZC12aXJnaW5pYS82NzU2MTnSAQA?hl=en-US\u0026gl=US\u0026ceid=US%3Aen",
+			"Date": "2020-02-07",
+			"related": [
+				{
+					"relatedTitle": "NASA's First Rocket Launch of 2020 Scrubbed at Last Minute, Rescheduled for Friday",
+					"relatedAuthor": "WBOC TV 16",
+					"relatedLink": "https://news.google.com/articles/CBMiTGh0dHA6Ly93d3cud2JvYy5jb20vc3RvcnkvNDE2NzgzMTMvbmFzYXMtZmlyc3Qtcm9ja2V0LWxhdW5jaC1vZi0yMDIwLWFib3J0ZWTSAQA?hl=en-US\u0026gl=US\u0026ceid=US%3Aen",
+					"relatedDate": "2020-02-11"
+				},
+				{
+					"relatedTitle": "Northrop Grumman calls off space station delivery citing ground equipment trouble",
+					"relatedAuthor": "Firstpost",
+					"relatedLink": "https://news.google.com/articles/CAIiED-xZZCF1yq_9Mh4duJp9m4qFwgEKg8IACoHCAow5v6PATDrwA8wruge?hl=en-US\u0026gl=US\u0026ceid=US%3Aen",
+					"relatedDate": "2020-02-11"
+				}
+			]
+		},
+		{
+			"relatedTitle": "Could a mini ice-age soon impact Earth?",
+			"relatedAuthor": "News 12 Bronx",
+			"relatedLink": "https://news.google.com/articles/CBMiSmh0dHA6Ly93d3cubmV3czEyLmNvbS9zdG9yeS80MTY5MzQ4NC9jb3VsZC1hLW1pbmktaWNlYWdlLXNvb24taW1wYWN0LWVhcnRo0gEA?hl=en-US\u0026gl=US\u0026ceid=US%3Aen",
+			"Date": "2020-02-12",
+			"related": [
+				{
+					"relatedTitle": "10 brilliant discoveries NASA's Solar Dynamics Observatory made in its first decade in space",
+					"relatedAuthor": "Space.com",
+					"relatedLink": "https://news.google.com/articles/CBMiSWh0dHBzOi8vd3d3LnNwYWNlLmNvbS9uYXNhLXNvbGFyLWR5bmFtaWNzLW9ic2VydmF0b3J5LTEwLWRpc2NvdmVyaWVzLmh0bWzSAU1odHRwczovL3d3dy5zcGFjZS5jb20vYW1wL25hc2Etc29sYXItZHluYW1pY3Mtb2JzZXJ2YXRvcnktMTAtZGlzY292ZXJpZXMuaHRtbA?hl=en-US\u0026gl=US\u0026ceid=US%3Aen",
+					"relatedDate": "2020-02-13"
+				},
+				{
+					"relatedTitle": "A new spacecraft will examine the sun close up",
+					"relatedAuthor": "The Economist",
+					"relatedLink": "https://news.google.com/articles/CBMiamh0dHBzOi8vd3d3LmVjb25vbWlzdC5jb20vc2NpZW5jZS1hbmQtdGVjaG5vbG9neS8yMDIwLzAyLzE1L2EtbmV3LXNwYWNlY3JhZnQtd2lsbC1leGFtaW5lLXRoZS1zdW4tY2xvc2UtdXDSAWpodHRwczovL2FtcC5lY29ub21pc3QuY29tL3NjaWVuY2UtYW5kLXRlY2hub2xvZ3kvMjAyMC8wMi8xNS9hLW5ldy1zcGFjZWNyYWZ0LXdpbGwtZXhhbWluZS10aGUtc3VuLWNsb3NlLXVw?hl=en-US\u0026gl=US\u0026ceid=US%3Aen",
+					"relatedDate": "2020-02-13"
+				},
+				{
+					"relatedTitle": "25 researchers from developing trained countries on analysing solar data",
+					"relatedAuthor": "Times of India",
+					"relatedLink": "https://news.google.com/articles/CAIiEA_sE_XLhAXZZGXu9hY1tEQqGQgEKhAIACoHCAowzrL9CjDC7vQCMJmD1wU?hl=en-US\u0026gl=US\u0026ceid=US%3Aen",
+					"relatedDate": "2020-02-13"
+				},
+				{
+					"relatedTitle": "Space weather forecast: Solar winds to hit Earth this weekend; what will happen to the planet?",
+					"relatedAuthor": "International Business Times, Singapore Edition",
+					"relatedLink": "https://news.google.com/articles/CBMibmh0dHBzOi8vd3d3LmlidGltZXMuc2cvc3BhY2Utd2VhdGhlci1mb3JlY2FzdC1zb2xhci13aW5kcy1oaXQtZWFydGgtdGhpcy13ZWVrZW5kLXdoYXQtd2lsbC1oYXBwZW4tcGxhbmV0LTM5MzI00gFuaHR0cHM6Ly9hbXAuaWJ0aW1lcy5zZy9zcGFjZS13ZWF0aGVyLWZvcmVjYXN0LXNvbGFyLXdpbmRzLWhpdC1lYXJ0aC10aGlzLXdlZWtlbmQtd2hhdC13aWxsLWhhcHBlbi1wbGFuZXQtMzkzMjQ?hl=en-US\u0026gl=US\u0026ceid=US%3Aen",
+					"relatedDate": "2020-02-13"
+				}
+			]
+		},
+		{
+			"relatedTitle": "A rare disease among children is discovered in a 66-million-year-old dinosaur tumor",
+			"relatedAuthor": "CNN",
+			"relatedLink": "https://news.google.com/articles/CAIiEICOCYMe_6WtBaELwVKR_SgqGQgEKhAIACoHCAowocv1CjCSptoCMPrTpgU?hl=en-US\u0026gl=US\u0026ceid=US%3Aen",
+			"Date": "2020-02-13",
+			"related": null
+		},
+		{
+			"relatedTitle": "Mars discovery: Salt water sometimes forms on the Red Planet’s surface, scientist says",
+			"relatedAuthor": "Fox News",
+			"relatedLink": "https://news.google.com/articles/CBMiXWh0dHBzOi8vd3d3LmZveG5ld3MuY29tL3NjaWVuY2UvbWFycy1kaXNjb3Zlcnktc2FsdC13YXRlci1zb21ldGltZXMtZm9ybXMtcmVkLXBsYW5ldHMtc3VyZmFjZdIBYWh0dHBzOi8vd3d3LmZveG5ld3MuY29tL3NjaWVuY2UvbWFycy1kaXNjb3Zlcnktc2FsdC13YXRlci1zb21ldGltZXMtZm9ybXMtcmVkLXBsYW5ldHMtc3VyZmFjZS5hbXA?hl=en-US\u0026gl=US\u0026ceid=US%3Aen",
+			"Date": "2020-02-13",
+			"related": [
+				{
+					"relatedTitle": "Water on Mars? Boulder shadows may spawn short-lived pools of brine.",
+					"relatedAuthor": "Space.com",
+					"relatedLink": "https://news.google.com/articles/CBMiPGh0dHBzOi8vd3d3LnNwYWNlLmNvbS9tYXJzLWxpcXVpZC13YXRlci1ib3VsZGVyLXNoYWRvd3MuaHRtbNIBQGh0dHBzOi8vd3d3LnNwYWNlLmNvbS9hbXAvbWFycy1saXF1aWQtd2F0ZXItYm91bGRlci1zaGFkb3dzLmh0bWw?hl=en-US\u0026gl=US\u0026ceid=US%3Aen",
+					"relatedDate": "2020-02-13"
+				},
+				{
+					"relatedTitle": "Salt Water May Periodically Form on the Surface of Mars",
+					"relatedAuthor": "Astrobiology News",
+					"relatedLink": "https://news.google.com/articles/CBMiXGh0dHA6Ly9hc3Ryb2Jpb2xvZ3kuY29tLzIwMjAvMDIvc2FsdC13YXRlci1tYXktcGVyaW9kaWNhbGx5LWZvcm0tb24tdGhlLXN1cmZhY2Utb2YtbWFycy5odG1s0gEA?hl=en-US\u0026gl=US\u0026ceid=US%3Aen",
+					"relatedDate": "2020-02-13"
+				},
+				{
+					"relatedTitle": "Water on Mars found? Experts make major breakthrough in hunt for liquid on Red Planet",
+					"relatedAuthor": "Express.co.uk",
+					"relatedLink": "https://news.google.com/articles/CBMib2h0dHBzOi8vd3d3LmV4cHJlc3MuY28udWsvbmV3cy9zY2llbmNlLzEyNDIwODIvd2F0ZXItb24tbWFycy0yMDIwLW5hc2EtbGlmZS1vbi1tYXJzLXNwYWNlLW5ld3MtYWxpZW5zLWRpc2NvdmVyedIBc2h0dHBzOi8vd3d3LmV4cHJlc3MuY28udWsvbmV3cy9zY2llbmNlLzEyNDIwODIvd2F0ZXItb24tbWFycy0yMDIwLW5hc2EtbGlmZS1vbi1tYXJzLXNwYWNlLW5ld3MtYWxpZW5zLWRpc2NvdmVyeS9hbXA?hl=en-US\u0026gl=US\u0026ceid=US%3Aen",
+					"relatedDate": "2020-02-13"
+				}
+			]
+		},
+		{
+			"relatedTitle": "Oldest known species of dinosaur discovered in Canada: 'Reaper of Death'",
+			"relatedAuthor": "AOL",
+			"relatedLink": "https://news.google.com/articles/CBMie2h0dHBzOi8vd3d3LmFvbC5jb20vYXJ0aWNsZS9uZXdzLzIwMjAvMDIvMTMvb2xkZXN0LWtub3duLXNwZWNpZXMtb2YtZGlub3NhdXItZGlzY292ZXJlZC1pbi1jYW5hZGEtcmVhcGVyLW9mLWRlYXRoLzIzOTI1NTI0L9IBAA?hl=en-US\u0026gl=US\u0026ceid=US%3Aen",
+			"Date": "2020-02-13",
+			"related": [
+				{
+					"relatedTitle": "New Tyrannosaur Species Discovered, Dubbed 'Reaper of Death' - IGN Now",
+					"relatedAuthor": "IGN",
+					"relatedLink": "https://news.google.com/articles/CCAiC0xzOWJWR09Xa3hRmAEB?hl=en-US\u0026gl=US\u0026ceid=US%3Aen",
+					"relatedDate": "2020-02-12"
+				},
+				{
+					"relatedTitle": "\"Reaper of death\" tyrannosaur unearthed in Canada",
+					"relatedAuthor": "New Atlas",
+					"relatedLink": "https://news.google.com/articles/CAIiED2vv4cOYnUyPmXKRKz6t6wqFQgEKg0IACoGCAow8oA-MLswMOKDAQ?hl=en-US\u0026gl=US\u0026ceid=US%3Aen",
+					"relatedDate": "2020-02-13"
+				},
+				{
+					"relatedTitle": "Dinosaur labeled 'Reaper of Death' discovered in Alberta",
+					"relatedAuthor": "Mother Nature Network",
+					"relatedLink": "https://news.google.com/articles/CBMic2h0dHBzOi8vd3d3Lm1ubi5jb20vZWFydGgtbWF0dGVycy93aWxkZXJuZXNzLXJlc291cmNlcy9zdG9yaWVzL25ldy1kaW5vc2F1ci1sYWJlbGVkLXJlYXBlci1kZWF0aC1kaXNjb3ZlcmVkLWFsYmVydGHSAXdodHRwczovL3d3dy5tbm4uY29tL2VhcnRoLW1hdHRlcnMvd2lsZGVybmVzcy1yZXNvdXJjZXMvc3Rvcmllcy9hbXAvbmV3LWRpbm9zYXVyLWxhYmVsZWQtcmVhcGVyLWRlYXRoLWRpc2NvdmVyZWQtYWxiZXJ0YQ?hl=en-US\u0026gl=US\u0026ceid=US%3Aen",
+					"relatedDate": "2020-02-12"
+				},
+				{
+					"relatedTitle": "A new T. rex relative called the 'reaper of death' has been discovered in Canada - Business Insider",
+					"relatedAuthor": "Business Insider Nordic",
+					"relatedLink": "https://news.google.com/articles/CBMiWWh0dHBzOi8vd3d3LmJ1c2luZXNzaW5zaWRlci5jb20vODAtbWlsbGlvbi15ZWFyLW9sZC10LXJleC1yZWxhdGl2ZS1yZWFwZXItb2YtZGVhdGgtMjAyMC0y0gFdaHR0cHM6Ly93d3cuYnVzaW5lc3NpbnNpZGVyLmNvbS84MC1taWxsaW9uLXllYXItb2xkLXQtcmV4LXJlbGF0aXZlLXJlYXBlci1vZi1kZWF0aC0yMDIwLTI_YW1w?hl=en-US\u0026gl=US\u0026ceid=US%3Aen",
+					"relatedDate": "2020-02-12"
+				}
+			]
+		},
+		{
+			"relatedTitle": "Asteroid experts catch final glimpse of Solar Orbiter",
+			"relatedAuthor": "Phys.org",
+			"relatedLink": "https://news.google.com/articles/CAIiEMjveLTHGCvNNtJA8LDZlB0qFwgEKg8IACoHCAowpbDpAzCm_hwwj9kp?hl=en-US\u0026gl=US\u0026ceid=US%3Aen",
+			"Date": "2020-02-12",
+			"related": [
+				{
+					"relatedTitle": "Solar Orbiter launched, will study sun's poles",
+					"relatedAuthor": "ThePrint",
+					"relatedLink": "https://news.google.com/articles/CCAiC3Jab2lfM2F4R3JVmAEB?hl=en-US\u0026gl=US\u0026ceid=US%3Aen",
+					"relatedDate": "2020-02-12"
+				},
+				{
+					"relatedTitle": "Parker Solar Probe Releases New Details on Solar Wind",
+					"relatedAuthor": "Sky \u0026 Telescope",
+					"relatedLink": "https://news.google.com/articles/CBMiZWh0dHBzOi8vd3d3LnNreWFuZHRlbGVzY29wZS5jb20vYXN0cm9ub215LW5ld3MvcGFya2VyLXNvbGFyLXByb2JlLXJlbGVhc2VzLW5ldy1kZXRhaWxzLW9uLXNvbGFyLXdpbmQv0gEA?hl=en-US\u0026gl=US\u0026ceid=US%3Aen",
+					"relatedDate": "2020-02-12"
+				},
+				{
+					"relatedTitle": "Peering at the sun: Solar Orbiter probe launches",
+					"relatedAuthor": "News24",
+					"relatedLink": "https://news.google.com/articles/CBMiWGh0dHBzOi8vbS5uZXdzMjQuY29tL0dyZWVuL05ld3MvcGVlcmluZy1hdC10aGUtc3VuLXNvbGFyLW9yYml0ZXItcHJvYmUtbGF1bmNoZXMtMjAyMDAyMTLSAQA?hl=en-US\u0026gl=US\u0026ceid=US%3Aen",
+					"relatedDate": "2020-02-12"
+				},
+				{
+					"relatedTitle": "We're about to learn a lot more about the Sun",
+					"relatedAuthor": "Axios",
+					"relatedLink": "https://news.google.com/articles/CAIiEIvM3QOQ6J1jFr8hwYdubuQqGQgEKhAIACoHCAowysWECzCkqIEDMP-pgwY?hl=en-US\u0026gl=US\u0026ceid=US%3Aen",
+					"relatedDate": "2020-02-11"
+				}
+			]
+		},
+		{
+			"relatedTitle": "SpaceX hires former NASA human-spaceflight chief",
+			"relatedAuthor": "Space.com",
+			"relatedLink": "https://news.google.com/articles/CBMiPmh0dHBzOi8vd3d3LnNwYWNlLmNvbS9zcGFjZXgtaGlyZXMtYmlsbC1nZXJzdGVubWFpZXItbmFzYS5odG1s0gFCaHR0cHM6Ly93d3cuc3BhY2UuY29tL2FtcC9zcGFjZXgtaGlyZXMtYmlsbC1nZXJzdGVubWFpZXItbmFzYS5odG1s?hl=en-US\u0026gl=US\u0026ceid=US%3Aen",
+			"Date": "2020-02-12",
+			"related": [
+				{
+					"relatedTitle": "SpaceX Hires Former NASA Chief of Human Spaceflight",
+					"relatedAuthor": "Futurism",
+					"relatedLink": "https://news.google.com/articles/CBMiTmh0dHBzOi8vZnV0dXJpc20uY29tL3RoZS1ieXRlL3NwYWNleC1oaXJlcy1mb3JtZXItbmFzYS1jaGllZi1odW1hbi1zcGFjZWZsaWdodNIBSWh0dHBzOi8vZnV0dXJpc20uY29tL3NwYWNleC1oaXJlcy1mb3JtZXItbmFzYS1jaGllZi1odW1hbi1zcGFjZWZsaWdodC9hbXA?hl=en-US\u0026gl=US\u0026ceid=US%3Aen",
+					"relatedDate": "2020-02-12"
+				},
+				{
+					"relatedTitle": "SpaceX's first astronaut-ready spaceship wraps up final factory tests before heading to Florida",
+					"relatedAuthor": "Teslarati",
+					"relatedLink": "https://news.google.com/articles/CBMiTmh0dHBzOi8vd3d3LnRlc2xhcmF0aS5jb20vc3BhY2V4LXNwYWNlc2hpcC1maW5hbC1mYWN0b3J5LXRlc3RzLWJlZm9yZS1mbG9yaWRhL9IBUmh0dHBzOi8vd3d3LnRlc2xhcmF0aS5jb20vc3BhY2V4LXNwYWNlc2hpcC1maW5hbC1mYWN0b3J5LXRlc3RzLWJlZm9yZS1mbG9yaWRhL2FtcC8?hl=en-US\u0026gl=US\u0026ceid=US%3Aen",
+					"relatedDate": "2020-02-12"
+				},
+				{
+					"relatedTitle": "SpaceX hires ex-NASA expert, prepares to launch astronauts",
+					"relatedAuthor": "Gadgets Now",
+					"relatedLink": "https://news.google.com/articles/CAIiEAX1bCLCpirKN1_P7sCal1wqGQgEKhAIACoHCAowv9f9CjCs1fUCMNfb8wU?hl=en-US\u0026gl=US\u0026ceid=US%3Aen",
+					"relatedDate": "2020-02-12"
+				},
+				{
+					"relatedTitle": "Former NASA human spaceflight head Gerstenmaier to work for SpaceX",
+					"relatedAuthor": "SpaceNews",
+					"relatedLink": "https://news.google.com/articles/CBMiWWh0dHBzOi8vc3BhY2VuZXdzLmNvbS9mb3JtZXItbmFzYS1odW1hbi1zcGFjZWZsaWdodC1oZWFkLWdlcnN0ZW5tYWllci10by13b3JrLWZvci1zcGFjZXgv0gEA?hl=en-US\u0026gl=US\u0026ceid=US%3Aen",
+					"relatedDate": "2020-02-12"
+				}
+			]
+		},
+		{
+			"relatedTitle": "Mars sample-return mission gets boost from Trump’s 2021 budget request",
+			"relatedAuthor": "Teslarati",
+			"relatedLink": "https://news.google.com/articles/CBMiQmh0dHBzOi8vd3d3LnRlc2xhcmF0aS5jb20vbWFycy1zYW1wbGUtcmV0dXJuLW1pc3Npb24tdHJ1bXBzLWJvb3N0L9IBRmh0dHBzOi8vd3d3LnRlc2xhcmF0aS5jb20vbWFycy1zYW1wbGUtcmV0dXJuLW1pc3Npb24tdHJ1bXBzLWJvb3N0L2FtcC8?hl=en-US\u0026gl=US\u0026ceid=US%3Aen",
+			"Date": "2020-02-12",
+			"related": [
+				{
+					"relatedTitle": "We might be wrong about how Mars was made, scientists say",
+					"relatedAuthor": "The Independent",
+					"relatedLink": "https://news.google.com/articles/CBMifWh0dHBzOi8vd3d3LmluZGVwZW5kZW50LmNvLnVrL2xpZmUtc3R5bGUvZ2FkZ2V0cy1hbmQtdGVjaC9uZXdzL21hcnMtZm9ybWF0aW9uLWNvbGxpc2lvbnMtbWV0ZW9yaXRlcy1lYXJ0aC1zcGFjZS1hOTMzMjMzNi5odG1s0gGBAWh0dHBzOi8vd3d3LmluZGVwZW5kZW50LmNvLnVrL2xpZmUtc3R5bGUvZ2FkZ2V0cy1hbmQtdGVjaC9uZXdzL21hcnMtZm9ybWF0aW9uLWNvbGxpc2lvbnMtbWV0ZW9yaXRlcy1lYXJ0aC1zcGFjZS1hOTMzMjMzNi5odG1sP2FtcA?hl=en-US\u0026gl=US\u0026ceid=US%3Aen",
+					"relatedDate": "2020-02-12"
+				},
+				{
+					"relatedTitle": "Huge 2,000ft dust whirlwind raging across Mars snapped in stunning Nasa photo",
+					"relatedAuthor": "The Sun",
+					"relatedLink": "https://news.google.com/articles/CAIiEETftxON6gkvV6TfRV33sbUqGQgEKhAIACoHCAow0Ij8CjCRwIgDMIuNyQU?hl=en-US\u0026gl=US\u0026ceid=US%3Aen",
+					"relatedDate": "2020-02-12"
+				},
+				{
+					"relatedTitle": "Mars 2020 Will be The Third Time That NASA Has Tried to Send a Microphone to Mars",
+					"relatedAuthor": "Universe Today",
+					"relatedLink": "https://news.google.com/articles/CBMid2h0dHBzOi8vd3d3LnVuaXZlcnNldG9kYXkuY29tLzE0NDk3MC9tYXJzLTIwMjAtd2lsbC1iZS10aGUtdGhpcmQtdGltZS10aGF0LW5hc2EtaGFzLXRyaWVkLXRvLXNlbmQtYS1taWNyb3Bob25lLXRvLW1hcnMv0gEA?hl=en-US\u0026gl=US\u0026ceid=US%3Aen",
+					"relatedDate": "2020-02-12"
+				},
+				{
+					"relatedTitle": "NASA Requests Funding for Audacious Plan to Bring Martian Soil to Earth",
+					"relatedAuthor": "Gizmodo",
+					"relatedLink": "https://news.google.com/articles/CAIiEBRwK5QK6uKmnOPaPltHQBoqFggEKg0IACoGCAowlIECMLBMMJnrngY?hl=en-US\u0026gl=US\u0026ceid=US%3Aen",
+					"relatedDate": "2020-02-11"
+				}
+			]
+		},
+		{
+			"relatedTitle": "Astronaut shares breathtaking photo of Louisiana from space",
+			"relatedAuthor": "WBRZ",
+			"relatedLink": "https://news.google.com/articles/CBMiVmh0dHBzOi8vd3d3LndicnouY29tL25ld3MvYXN0cm9uYXV0LXNoYXJlcy1icmVhdGh0YWtpbmctcGhvdG8tb2YtbG91aXNpYW5hLWZyb20tc3BhY2Uv0gEA?hl=en-US\u0026gl=US\u0026ceid=US%3Aen",
+			"Date": "2020-02-12",
+			"related": [
+				{
+					"relatedTitle": "NASA astronaut shares stunning photo of Louisiana from space",
+					"relatedAuthor": "WWLTV.com",
+					"relatedLink": "https://news.google.com/articles/CBMimgFodHRwczovL3d3dy53d2x0di5jb20vYXJ0aWNsZS90ZWNoL3NjaWVuY2UvYWVyb3NwYWNlL25hc2EtYXN0cm9uYXV0LXNoYXJlcy1zdHVubmluZy1waG90by1vZi1sb3Vpc2lhbmEtZnJvbS1zcGFjZS8yODktOTY2MmYxZWMtMmJlOC00Y2U0LTljYTQtZDI5YWUyZGQxYTNl0gEA?hl=en-US\u0026gl=US\u0026ceid=US%3Aen",
+					"relatedDate": "2020-02-12"
+				},
+				{
+					"relatedTitle": "See Louisiana from International Space Station",
+					"relatedAuthor": "WAFB",
+					"relatedLink": "https://news.google.com/articles/CBMiSmh0dHBzOi8vd3d3LndhZmIuY29tLzIwMjAvMDIvMTIvc2VlLWxvdWlzaWFuYS1pbnRlcm5hdGlvbmFsLXNwYWNlLXN0YXRpb24v0gFZaHR0cHM6Ly93d3cud2FmYi5jb20vMjAyMC8wMi8xMi9zZWUtbG91aXNpYW5hLWludGVybmF0aW9uYWwtc3BhY2Utc3RhdGlvbi8_b3V0cHV0VHlwZT1hbXA?hl=en-US\u0026gl=US\u0026ceid=US%3Aen",
+					"relatedDate": "2020-02-12"
+				},
+				{
+					"relatedTitle": "NASA astronaut tweets incredible shot of New Orleans, Mississippi River Delta aboard ISS",
+					"relatedAuthor": "WDSU New Orleans",
+					"relatedLink": "https://news.google.com/articles/CAIiEB8yIOQ6n2wxY6jSTf1ydL8qGAgEKg8IACoHCAowtrHxCTDH53Iw1rWYBg?hl=en-US\u0026gl=US\u0026ceid=US%3Aen",
+					"relatedDate": "2020-02-12"
+				}
+			]
+		},
+		{
+			"relatedTitle": "Researchers find a way to 3D print whole objects in seconds",
+			"relatedAuthor": "Engadget",
+			"relatedLink": "https://news.google.com/articles/CAIiEKYDU11xWaNpQL5hbMuDtLAqGAgEKg8IACoHCAowwOjjAjDp3xswicOyAw?hl=en-US\u0026gl=US\u0026ceid=US%3Aen",
+			"Date": "2020-02-13",
+			"related": null
+		},
+		{
+			"relatedTitle": "Ancient BEE died in modern-day Myanmar 100 million years ago was weighed down by parasitic beetles",
+			"relatedAuthor": "Daily MailSci-News.com",
+			"relatedLink": "https://news.google.com/articles/CAIiEBJ6-EWW0ATOJQ658Tv0PAwqGQgEKhAIACoHCAowzuOICzCZ4ocDMPX1qQY?hl=en-US\u0026gl=US\u0026ceid=US%3Aen",
+			"Date": "2020-02-13",
+			"related": [
+				{
+					"relatedTitle": "99-Million-Year-Old Bee Found Encased in Burmese Amber | Paleontology",
+					"relatedAuthor": "Sci-News.com",
+					"relatedLink": "https://news.google.com/articles/CBMiQmh0dHA6Ly93d3cuc2NpLW5ld3MuY29tL3BhbGVvbnRvbG9neS9kaXNjb3NjYXBhLWFwaWN1bGEtMDgxMTkuaHRtbNIBAA?hl=en-US\u0026gl=US\u0026ceid=US%3Aen",
+					"relatedDate": "2020-02-13"
+				}
+			]
+		},
+		{
+			"relatedTitle": "So, Uh, the Last Woolly Mammoths Were Inbred, Mutated Wretches",
+			"relatedAuthor": "Futurism",
+			"relatedLink": "https://news.google.com/articles/CBMiRWh0dHBzOi8vZnV0dXJpc20uY29tL3RoZS1ieXRlL3dvb2xseS1tYW1tb3Rocy1pbmJyZWQtbXV0YXRlZC13cmV0Y2hlc9IBQGh0dHBzOi8vZnV0dXJpc20uY29tL3dvb2xseS1tYW1tb3Rocy1pbmJyZWQtbXV0YXRlZC13cmV0Y2hlcy9hbXA?hl=en-US\u0026gl=US\u0026ceid=US%3Aen",
+			"Date": "2020-02-12",
+			"related": null
+		},
+		{
+			"relatedTitle": "Scientists discover 'baby giant' exoplanet already 10 times the mass of Jupiter",
+			"relatedAuthor": "Yahoo News",
+			"relatedLink": "https://news.google.com/publications/CAAqBwgKMJ7zkwswh46pAw?hl=en-US\u0026gl=US\u0026ceid=US%3Aen",
+			"Date": "2020-02-12",
+			"related": null
+		},
+		{
+			"relatedTitle": "New models hint at longer timescale for Mars formation",
+			"relatedAuthor": "Phys.org",
+			"relatedLink": "https://news.google.com/articles/CAIiEFxcW7L0jyrX-_m1xIVfNXAqGAgEKg8IACoHCAowpbDpAzCm_hww3-XGBg?hl=en-US\u0026gl=US\u0026ceid=US%3Aen",
+			"Date": "2020-02-12",
+			"related": [
+				{
+					"relatedTitle": "Mars took way longer to form than we thought, ancient impacts reveal",
+					"relatedAuthor": "Space.com",
+					"relatedLink": "https://news.google.com/articles/CBMiSWh0dHBzOi8vd3d3LnNwYWNlLmNvbS9lYXJseS1tYXJzLWZvcm1lZC1zbG93LWFuY2llbnQtY29sbGlzaW9ucy1zaG93Lmh0bWzSAU1odHRwczovL3d3dy5zcGFjZS5jb20vYW1wL2Vhcmx5LW1hcnMtZm9ybWVkLXNsb3ctYW5jaWVudC1jb2xsaXNpb25zLXNob3cuaHRtbA?hl=en-US\u0026gl=US\u0026ceid=US%3Aen",
+					"relatedDate": "2020-02-12"
+				},
+				{
+					"relatedTitle": "New clues to the age of Mars",
+					"relatedAuthor": "Cosmos",
+					"relatedLink": "https://news.google.com/articles/CBMiPWh0dHBzOi8vY29zbW9zbWFnYXppbmUuY29tL3NwYWNlL25ldy1jbHVlcy10by10aGUtYWdlLW9mLW1hcnPSAQA?hl=en-US\u0026gl=US\u0026ceid=US%3Aen",
+					"relatedDate": "2020-02-12"
+				},
+				{
+					"relatedTitle": "Study rewrites Mars' origin story, suggests planet took 15 million years to form",
+					"relatedAuthor": "Inverse",
+					"relatedLink": "https://news.google.com/articles/CAIiEGKcU4u0tw7oRZC-n9j0WWYqGQgEKhAIACoHCAowvfmRCzCeoqcDMJb_ugY?hl=en-US\u0026gl=US\u0026ceid=US%3Aen",
+					"relatedDate": "2020-02-13"
+				},
+				{
+					"relatedTitle": "Mars may have formed 15 million years later than we thought",
+					"relatedAuthor": "New Scientist News",
+					"relatedLink": "https://news.google.com/articles/CAIiEMjvuVi8amT-j5-Xj4Ds3SoqFwgEKg8IACoHCAowyseYCTDXhmww8pwn?hl=en-US\u0026gl=US\u0026ceid=US%3Aen",
+					"relatedDate": "2020-02-12"
+				}
+			]
+		},
+		{
+			"relatedTitle": "How I Discovered a 40-Million-Year-Old Whale in Kitchen Limestone",
+			"relatedAuthor": "Gizmodo",
+			"relatedLink": "https://news.google.com/articles/CAIiEAkITJtc0wKchQ0tdS82MiMqFggEKg0IACoGCAowlIECMLBMMMrvngY?hl=en-US\u0026gl=US\u0026ceid=US%3Aen",
+			"Date": "2020-02-13",
+			"related": null
+		},
+		{
+			"relatedTitle": "'Baby giant planet' discovered just 330 light-years from Earth",
+			"relatedAuthor": "New York Post",
+			"relatedLink": "https://news.google.com/articles/CAIiEG-XtkLJKI-UwiqfyIkeZrwqGAgEKg8IACoHCAowhK-LAjD4ySwwu9a0BQ?hl=en-US\u0026gl=US\u0026ceid=US%3Aen",
+			"Date": "2020-02-13",
+			"related": null
+		},
+		{
+			"relatedTitle": "The Coral Ark That Hopes to Save Florida’s Ailing Reefs",
+			"relatedAuthor": "Atlas Obscura",
+			"relatedLink": "https://news.google.com/articles/CBMiRmh0dHBzOi8vd3d3LmF0bGFzb2JzY3VyYS5jb20vYXJ0aWNsZXMvZmxvcmlkYS1jb3JhbC1yZXNjdWUtcHJvamVjdC1hcmvSAUpodHRwczovL3d3dy5hdGxhc29ic2N1cmEuY29tL2FydGljbGVzL2Zsb3JpZGEtY29yYWwtcmVzY3VlLXByb2plY3QtYXJrLmFtcA?hl=en-US\u0026gl=US\u0026ceid=US%3Aen",
+			"Date": "2020-02-12",
+			"related": null
+		},
+		{
+			"relatedTitle": "Betelgeuse Is Acting Really Weird Right Now. Could It Be Ready To Go Supernova?",
+			"relatedAuthor": "HuffPostTweakTown",
+			"relatedLink": "https://news.google.com/articles/CAIiENzbQl0X22BzN8n6mhxD-_YqFggEKg0IACoGCAowxYgCMIBNMK2HuAM?hl=en-US\u0026gl=US\u0026ceid=US%3Aen",
+			"Date": "2020-02-12",
+			"related": [
+				{
+					"relatedTitle": "Betelgeuse explosion to display light show not seen since 17th century",
+					"relatedAuthor": "TweakTown",
+					"relatedLink": "https://news.google.com/articles/CAIiEC-ZCASSuVSg8Az9MTnFSoIqFwgEKg4IACoGCAowtro_MOevCDDensUG?hl=en-US\u0026gl=US\u0026ceid=US%3Aen",
+					"relatedDate": "2020-02-12"
+				}
+			]
+		},
+		{
+			"relatedTitle": "Texas perovskite company reaches 18% efficiency with its ink-based solar cell process",
+			"relatedAuthor": "Solar Power World",
+			"relatedLink": "https://news.google.com/articles/CBMigwFodHRwczovL3d3dy5zb2xhcnBvd2Vyd29ybGRvbmxpbmUuY29tLzIwMjAvMDIvdGV4YXMtcGVyb3Zza2l0ZS1jb21wYW55LXJlYWNoZXMtMTgtZWZmaWNpZW5jeS13aXRoLWl0cy1pbmstYmFzZWQtc29sYXItY2VsbC1wcm9jZXNzL9IBAA?hl=en-US\u0026gl=US\u0026ceid=US%3Aen",
+			"Date": "2020-02-12",
+			"related": null
+		},
+		{
+			"relatedTitle": "Northrop Grumman aims for Valentine's Day launch of NASA cargo on Cygnus spacecraft",
+			"relatedAuthor": "Space.compennlive.com",
+			"relatedLink": "https://news.google.com/articles/CBMiT2h0dHBzOi8vd3d3LnNwYWNlLmNvbS9jeWdudXMtY2FyZ28tc2hpcC1sYXVuY2gtdGFyZ2V0cy12YWxlbnRpbmVzLWRheS0yMDIwLmh0bWzSAVNodHRwczovL3d3dy5zcGFjZS5jb20vYW1wL2N5Z251cy1jYXJnby1zaGlwLWxhdW5jaC10YXJnZXRzLXZhbGVudGluZXMtZGF5LTIwMjAuaHRtbA?hl=en-US\u0026gl=US\u0026ceid=US%3Aen",
+			"Date": "2020-02-13",
+			"related": [
+				{
+					"relatedTitle": "A NASA rocket launch could be visible in Pennsylvania: Here’s when to watch",
+					"relatedAuthor": "pennlive.com",
+					"relatedLink": "https://news.google.com/articles/CBMidGh0dHBzOi8vd3d3LnBlbm5saXZlLmNvbS9uZXdzLzIwMjAvMDIvYS1uYXNhLXJvY2tldC1sYXVuY2gtY291bGQtYmUtdmlzaWJsZS1pbi1wZW5uc3lsdmFuaWEtaGVyZXMtd2hlbi10by13YXRjaC5odG1s0gGDAWh0dHBzOi8vd3d3LnBlbm5saXZlLmNvbS9uZXdzLzIwMjAvMDIvYS1uYXNhLXJvY2tldC1sYXVuY2gtY291bGQtYmUtdmlzaWJsZS1pbi1wZW5uc3lsdmFuaWEtaGVyZXMtd2hlbi10by13YXRjaC5odG1sP291dHB1dFR5cGU9YW1w?hl=en-US\u0026gl=US\u0026ceid=US%3Aen",
+					"relatedDate": "2020-02-13"
+				}
+			]
+		},
+		{
+			"relatedTitle": "A Slight Change In Altitude Could Slash Flying's Climate Cost",
+			"relatedAuthor": "IFLScience",
+			"relatedLink": "https://news.google.com/articles/CBMiZGh0dHBzOi8vd3d3LmlmbHNjaWVuY2UuY29tL2Vudmlyb25tZW50L2Etc2xpZ2h0LWNoYW5nZS1pbi1hbHRpdHVkZS1jb3VsZC1zbGFzaC1mbHlpbmdzLWNsaW1hdGUtY29zdC_SAQA?hl=en-US\u0026gl=US\u0026ceid=US%3Aen",
+			"Date": "2020-02-12",
+			"related": [
+				{
+					"relatedTitle": "Simple contrail-curtailing measures may help reduce climate change",
+					"relatedAuthor": "New Atlas",
+					"relatedLink": "https://news.google.com/articles/CAIiEEeGiNlkGppd0NQ9i4TELq4qFQgEKg0IACoGCAow8oA-MLswMJKBAQ?hl=en-US\u0026gl=US\u0026ceid=US%3Aen",
+					"relatedDate": "2020-02-12"
+				},
+				{
+					"relatedTitle": "Containing the contrails",
+					"relatedAuthor": "Cosmos",
+					"relatedLink": "https://news.google.com/articles/CBMiO2h0dHBzOi8vY29zbW9zbWFnYXppbmUuY29tL2NsaW1hdGUvY29udGFpbmluZy10aGUtY29udHJhaWxz0gEA?hl=en-US\u0026gl=US\u0026ceid=US%3Aen",
+					"relatedDate": "2020-02-12"
+				},
+				{
+					"relatedTitle": "Small altitude changes could cut contrail impact of flights by up to 59 percent",
+					"relatedAuthor": "Phys.org",
+					"relatedLink": "https://news.google.com/articles/CAIiEDsu3IAwkUjF9rH-Pe0CafQqGAgEKg8IACoHCAowpbDpAzCm_hww3uXGBg?hl=en-US\u0026gl=US\u0026ceid=US%3Aen",
+					"relatedDate": "2020-02-12"
+				},
+				{
+					"relatedTitle": "Flight path to greener skies",
+					"relatedAuthor": "Innovators Magazine",
+					"relatedLink": "https://news.google.com/articles/CBMiO2h0dHBzOi8vd3d3Lmlubm92YXRvcnNtYWcuY29tL2ZsaWdodC1wYXRoLXRvLWdyZWVuZXItc2tpZXMv0gE_aHR0cHM6Ly93d3cuaW5ub3ZhdG9yc21hZy5jb20vZmxpZ2h0LXBhdGgtdG8tZ3JlZW5lci1za2llcy9hbXAv?hl=en-US\u0026gl=US\u0026ceid=US%3Aen",
+					"relatedDate": "2020-02-12"
+				}
+			]
+		},
+		{
+			"relatedTitle": "Yes, That Pink Manta Picture Is Real",
+			"relatedAuthor": "ForbesNational Geographic",
+			"relatedLink": "https://news.google.com/articles/CAIiEIhJ8vLlOEmFqYeiK3Reus4qFQgEKg0IACoGCAowrqkBMKBFMMGBAg?hl=en-US\u0026gl=US\u0026ceid=US%3Aen",
+			"Date": "2020-02-12",
+			"related": [
+				{
+					"relatedTitle": "How did this rare pink manta, photographed in Australia, get its color?",
+					"relatedAuthor": "National Geographic",
+					"relatedLink": "https://news.google.com/articles/CAIiEC3jcrmrrUIIjiSzga_MABMqGQgEKhAIACoHCAowmrWECzDc_IADMKHKngY?hl=en-US\u0026gl=US\u0026ceid=US%3Aen",
+					"relatedDate": "2020-02-11"
+				}
+			]
+		},
+		{
+			"relatedTitle": "Quantum memories entangled over 50-kilometer cable",
+			"relatedAuthor": "Phys.orgScienceAlert",
+			"relatedLink": "https://news.google.com/articles/CAIiEJy2zJNbqbx6lPiuHq1YIKIqFwgEKg8IACoHCAowpbDpAzCm_hwwj9kp?hl=en-US\u0026gl=US\u0026ceid=US%3Aen",
+			"Date": "2020-02-13",
+			"related": [
+				{
+					"relatedTitle": "Chinese Scientists Just Entangled Quantum Memories Over 50 km",
+					"relatedAuthor": "ScienceAlert",
+					"relatedLink": "https://news.google.com/articles/CBMiZGh0dHBzOi8vd3d3LnNjaWVuY2VhbGVydC5jb20vc2NpZW50aXN0cy1kZW1vbnN0cmF0ZS1xdWFudHVtLW1lbW9yeS1lbnRhbmdsZW1lbnQtb3Zlci1tb3JlLXRoYW4tNTAta23SAWhodHRwczovL3d3dy5zY2llbmNlYWxlcnQuY29tL3NjaWVudGlzdHMtZGVtb25zdHJhdGUtcXVhbnR1bS1tZW1vcnktZW50YW5nbGVtZW50LW92ZXItbW9yZS10aGFuLTUwLWttL2FtcA?hl=en-US\u0026gl=US\u0026ceid=US%3Aen",
+					"relatedDate": "2020-02-13"
+				}
+			]
+		},
+		{
+			"relatedTitle": "Exoplanet smashup: The very weird dust disk around BD +20 307",
+			"relatedAuthor": "SYFY WIRE",
+			"relatedLink": "https://news.google.com/articles/CAIiEKl73FA7kCA5oojwETqY2msqGQgEKhAIACoHCAowrq6BCzCw9PwCMMTYyQY?hl=en-US\u0026gl=US\u0026ceid=US%3Aen",
+			"Date": "2020-02-13",
+			"related": null
+		},
+		{
+			"relatedTitle": "Ancient Antarctic ice melt caused extreme sea level rise 129,000 years ago – and it could happen again",
+			"relatedAuthor": "Yahoo News UK",
+			"relatedLink": "https://news.google.com/articles/CBMiSmh0dHBzOi8vdWsubmV3cy55YWhvby5jb20vYW5jaWVudC1hbnRhcmN0aWMtaWNlLW1lbHQtY2F1c2VkLTEyMzkwMjUwNi5odG1s0gFSaHR0cHM6Ly91ay5uZXdzLnlhaG9vLmNvbS9hbXBodG1sL2FuY2llbnQtYW50YXJjdGljLWljZS1tZWx0LWNhdXNlZC0xMjM5MDI1MDYuaHRtbA?hl=en-US\u0026gl=US\u0026ceid=US%3Aen",
+			"Date": "2020-02-12",
+			"related": [
+				{
+					"relatedTitle": "Mass melting of Antarctic ice sheet led to three metre sea level rise 120,000 years ago",
+					"relatedAuthor": "The Guardian",
+					"relatedLink": "https://news.google.com/articles/CAIiEM-5NYEZ7ZGTRkgLyPOpPm8qFwgEKg4IACoGCAowl6p7MN-zCTDZ4PsF?hl=en-US\u0026gl=US\u0026ceid=US%3Aen",
+					"relatedDate": "2020-02-12"
+				},
+				{
+					"relatedTitle": "Lessons to learn from the Last Interglacial",
+					"relatedAuthor": "Cosmos",
+					"relatedLink": "https://news.google.com/articles/CBMiTmh0dHBzOi8vY29zbW9zbWFnYXppbmUuY29tL2NsaW1hdGUvbGVzc29ucy10by1sZWFybi1mcm9tLXRoZS1sYXN0LWludGVyZ2xhY2lhbNIBAA?hl=en-US\u0026gl=US\u0026ceid=US%3Aen",
+					"relatedDate": "2020-02-12"
+				},
+				{
+					"relatedTitle": "Extreme sea-level rise 130000 years ago",
+					"relatedAuthor": "HeritageDaily",
+					"relatedLink": "https://news.google.com/articles/CBMiVGh0dHBzOi8vd3d3Lmhlcml0YWdlZGFpbHkuY29tLzIwMjAvMDIvZXh0cmVtZS1zZWEtbGV2ZWwtcmlzZS0xMzAwMDAteWVhcnMtYWdvLzEyNTcwNtIBAA?hl=en-US\u0026gl=US\u0026ceid=US%3Aen",
+					"relatedDate": "2020-02-12"
+				},
+				{
+					"relatedTitle": "Melting of ancient Antarctic ice sheet drove a 3-meter sea level rise",
+					"relatedAuthor": "New Atlas",
+					"relatedLink": "https://news.google.com/articles/CAIiEGkZxwFfv9H6VyCK9FcRQxcqFQgEKg0IACoGCAow8oA-MLswMJKBAQ?hl=en-US\u0026gl=US\u0026ceid=US%3Aen",
+					"relatedDate": "2020-02-13"
+				}
+			]
+		},
+		{
+			"relatedTitle": "The best water bottles in 2020",
+			"relatedAuthor": "CNETFood \u0026 Wine",
+			"relatedLink": "https://news.google.com/articles/CAIiEOhHcywURoUpffbRYtNxE38qEwgEKgwIACoFCAow4GowoAgwkRo?hl=en-US\u0026gl=US\u0026ceid=US%3Aen",
+			"Date": "2020-02-12",
+			"related": [
+				{
+					"relatedTitle": "10 Smart Water Bottles to Use in 2020",
+					"relatedAuthor": "Food \u0026 Wine",
+					"relatedLink": "https://news.google.com/articles/CBMiQWh0dHBzOi8vd3d3LmZvb2RhbmR3aW5lLmNvbS9saWZlc3R5bGUva2l0Y2hlbi9zbWFydC13YXRlci1ib3R0bGVz0gFKaHR0cHM6Ly93d3cuZm9vZGFuZHdpbmUuY29tL2xpZmVzdHlsZS9raXRjaGVuL3NtYXJ0LXdhdGVyLWJvdHRsZXM_YW1wPXRydWU?hl=en-US\u0026gl=US\u0026ceid=US%3Aen",
+					"relatedDate": "2020-02-12"
+				}
+			]
+		},
+		{
+			"relatedTitle": "Giant extinct ancient rodent had a tiny brain",
+			"relatedAuthor": "Phys.org",
+			"relatedLink": "https://news.google.com/articles/CAIiEASgAcbt6UAIXVV1V_cIbyMqGAgEKg8IACoHCAowpbDpAzCm_hww4PzGBg?hl=en-US\u0026gl=US\u0026ceid=US%3Aen",
+			"Date": "2020-02-12",
+			"related": [
+				{
+					"relatedTitle": "Giant human-sized RAT with huge incisors for gobbling prey terrorised swamps 10million years ago",
+					"relatedAuthor": "The Sun",
+					"relatedLink": "https://news.google.com/articles/CAIiENU4Z_PADuo2NvMbi8nzQmoqGQgEKhAIACoHCAow0Ij8CjCRwIgDMMCBzAU?hl=en-US\u0026gl=US\u0026ceid=US%3Aen",
+					"relatedDate": "2020-02-12"
+				},
+				{
+					"relatedTitle": "A Giant, Human-Sized Rat Roamed the Earth 10 Million Years Ago",
+					"relatedAuthor": "msnNOW",
+					"relatedLink": "https://news.google.com/articles/CBMicGh0dHBzOi8vd3d3Lm1zbi5jb20vZW4tdXMvdmlkZW8vc2NpZW5jZS9hLWdpYW50LWh1bWFuLXNpemVkLXJhdC1yb2FtZWQtdGhlLWVhcnRoLTEwLW1pbGxpb24teWVhcnMtYWdvL3ZpLUJCWlVPTmnSAQA?hl=en-US\u0026gl=US\u0026ceid=US%3Aen",
+					"relatedDate": "2020-02-11"
+				}
+			]
+		},
+		{
+			"relatedTitle": "Researchers Predict Sun Will Destroy Asteroid Belt in Six Billion Years - IGN",
+			"relatedAuthor": "IGN",
+			"relatedLink": "https://news.google.com/articles/CBMiZGh0dHBzOi8vd3d3Lmlnbi5jb20vYXJ0aWNsZXMvcmVzZWFyY2hlcnMtcHJlZGljdC1zdW4td2lsbC1kZXN0cm95LWFzdGVyb2lkLWJlbHQtaW4tc2l4LWJpbGxpb24teWVhcnPSAWpodHRwczovL3d3dy5pZ24uY29tL2FydGljbGVzL3Jlc2VhcmNoZXJzLXByZWRpY3Qtc3VuLXdpbGwtZGVzdHJveS1hc3Rlcm9pZC1iZWx0LWluLXNpeC1iaWxsaW9uLXllYXJzP2FtcD0x?hl=en-US\u0026gl=US\u0026ceid=US%3Aen",
+			"Date": "2020-02-12",
+			"related": [
+				{
+					"relatedTitle": "Asteroids go to pieces when their host star dies",
+					"relatedAuthor": "Popular Science",
+					"relatedLink": "https://news.google.com/articles/CAIiEGpG_OLlhDXk-21g3eHwO80qFQgEKg0IACoGCAow_f8GMOBfMMbIAg?hl=en-US\u0026gl=US\u0026ceid=US%3Aen",
+					"relatedDate": "2020-02-13"
+				},
+				{
+					"relatedTitle": "Researchers Predict Sun Will Destroy Asteroid Belt in Six Billion Years",
+					"relatedAuthor": "IGN Southeast Asia",
+					"relatedLink": "https://news.google.com/articles/CBMiZ2h0dHBzOi8vc2VhLmlnbi5jb20vbmV3cy8xNTc3MjcvcmVzZWFyY2hlcnMtcHJlZGljdC1zdW4td2lsbC1kZXN0cm95LWFzdGVyb2lkLWJlbHQtaW4tc2l4LWJpbGxpb24teWVhcnPSAW1odHRwczovL3NlYS5pZ24uY29tL25ld3MvMTU3NzI3L3Jlc2VhcmNoZXJzLXByZWRpY3Qtc3VuLXdpbGwtZGVzdHJveS1hc3Rlcm9pZC1iZWx0LWluLXNpeC1iaWxsaW9uLXllYXJzP2FtcD0x?hl=en-US\u0026gl=US\u0026ceid=US%3Aen",
+					"relatedDate": "2020-02-12"
+				}
+			]
+		},
+		{
+			"relatedTitle": "Iran satellite launch fails to reach orbit",
+			"relatedAuthor": "Livescience.com",
+			"relatedLink": "https://news.google.com/articles/CBMiRmh0dHBzOi8vd3d3LmxpdmVzY2llbmNlLmNvbS9pcmFuLXNhdGVsbGl0ZS1sYXVuY2gtZmFpbHVyZS16YWZhci0xLmh0bWzSAQA?hl=en-US\u0026gl=US\u0026ceid=US%3Aen",
+			"Date": "2020-02-12",
+			"related": null
+		},
+		{
+			"relatedTitle": "Researchers shrink laser-induced graphene for flexible electronics",
+			"relatedAuthor": "Phys.org",
+			"relatedLink": "https://news.google.com/articles/CAIiEMd-GQY072yZOOdZVXppqe8qGAgEKg8IACoHCAowpbDpAzCm_hww3OXGBg?hl=en-US\u0026gl=US\u0026ceid=US%3Aen",
+			"Date": "2020-02-12",
+			"related": null
+		},
+		{
+			"relatedTitle": "NASA's Glenn Research Center: Incubator of technologies for flight",
+			"relatedAuthor": "Space.com",
+			"relatedLink": "https://news.google.com/articles/CBMiNWh0dHBzOi8vd3d3LnNwYWNlLmNvbS9uYXNhLWdsZW5uLXJlc2VhcmNoLWNlbnRlci5odG1s0gE5aHR0cHM6Ly93d3cuc3BhY2UuY29tL2FtcC9uYXNhLWdsZW5uLXJlc2VhcmNoLWNlbnRlci5odG1s?hl=en-US\u0026gl=US\u0026ceid=US%3Aen",
+			"Date": "2020-02-12",
+			"related": null
+		},
+		{
+			"relatedTitle": "New Images of the \"Golf Ball\" Asteroid Pallas",
+			"relatedAuthor": "Universe Today",
+			"relatedLink": "https://news.google.com/articles/CBMiUWh0dHBzOi8vd3d3LnVuaXZlcnNldG9kYXkuY29tLzE0NDk3OC9uZXctaW1hZ2VzLW9mLXRoZS1nb2xmLWJhbGwtYXN0ZXJvaWQtcGFsbGFzL9IBAA?hl=en-US\u0026gl=US\u0026ceid=US%3Aen",
+			"Date": "2020-02-12",
+			"related": [
+				{
+					"relatedTitle": "\"Golf Ball Asteroid\" Images Reveal History of Violent Collisions",
+					"relatedAuthor": "SETI Institute",
+					"relatedLink": "https://news.google.com/articles/CBMiUGh0dHBzOi8vd3d3LnNldGkub3JnL2dvbGYtYmFsbC1hc3Rlcm9pZC1pbWFnZXMtcmV2ZWFsLWhpc3RvcnktdmlvbGVudC1jb2xsaXNpb25z0gEA?hl=en-US\u0026gl=US\u0026ceid=US%3Aen",
+					"relatedDate": "2020-02-12"
+				},
+				{
+					"relatedTitle": "The tumultuous past of a ‘golf ball asteroid’",
+					"relatedAuthor": "The Boston Globe",
+					"relatedLink": "https://news.google.com/articles/CBMiUGh0dHBzOi8vd3d3LmJvc3Rvbmdsb2JlLmNvbS8yMDIwLzAyLzEyL21ldHJvL3R1bXVsdHVvdXMtcGFzdC1nb2xmLWJhbGwtYXN0ZXJvaWQv0gFfaHR0cHM6Ly93d3cuYm9zdG9uZ2xvYmUuY29tLzIwMjAvMDIvMTIvbWV0cm8vdHVtdWx0dW91cy1wYXN0LWdvbGYtYmFsbC1hc3Rlcm9pZC8_b3V0cHV0VHlwZT1hbXA?hl=en-US\u0026gl=US\u0026ceid=US%3Aen",
+					"relatedDate": "2020-02-12"
+				}
+			]
+		},
+		{
+			"relatedTitle": "Potentially hazardous asteroid spotted passing Earth with its own tiny moon",
+			"relatedAuthor": "CNET",
+			"relatedLink": "https://news.google.com/articles/CAIiEDdjDQEx90xGvy9qJYDBkU8qEwgEKgwIACoFCAow4GowoAgwkRo?hl=en-US\u0026gl=US\u0026ceid=US%3Aen",
+			"Date": "2020-02-12",
+			"related": [
+				{
+					"relatedTitle": "Asteroid warning: NASA tracks a killer rock on approach - Could wipe out entire continent",
+					"relatedAuthor": "Express.co.uk",
+					"relatedLink": "https://news.google.com/articles/CBMihgFodHRwczovL3d3dy5leHByZXNzLmNvLnVrL25ld3Mvc2NpZW5jZS8xMjQxMzYyL0FzdGVyb2lkLXdhcm5pbmctTkFTQS10cmFja3Mta2lsbGVyLWFzdGVyb2lkLWhpdC1FYXJ0aC13aXBlLW91dC1jb250aW5lbnQtYXN0ZXJvaWQtbmV3c9IBigFodHRwczovL3d3dy5leHByZXNzLmNvLnVrL25ld3Mvc2NpZW5jZS8xMjQxMzYyL0FzdGVyb2lkLXdhcm5pbmctTkFTQS10cmFja3Mta2lsbGVyLWFzdGVyb2lkLWhpdC1FYXJ0aC13aXBlLW91dC1jb250aW5lbnQtYXN0ZXJvaWQtbmV3cy9hbXA?hl=en-US\u0026gl=US\u0026ceid=US%3Aen",
+					"relatedDate": "2020-02-13"
+				},
+				{
+					"relatedTitle": "Good Morning!",
+					"relatedAuthor": "KWTX",
+					"relatedLink": "https://news.google.com/articles/CBMiPWh0dHBzOi8vd3d3Lmt3dHguY29tL2NvbnRlbnQvbmV3cy9Hb29kLU1vcm5pbmctNTY3Nzc5NzYxLmh0bWzSAQA?hl=en-US\u0026gl=US\u0026ceid=US%3Aen",
+					"relatedDate": "2020-02-11"
+				}
+			]
+		},
+		{
+			"relatedTitle": "What is a neutron star? | Astronomy Essentials",
+			"relatedAuthor": "EarthSky",
+			"relatedLink": "https://news.google.com/articles/CBMiS2h0dHBzOi8vZWFydGhza3kub3JnL2FzdHJvbm9teS1lc3NlbnRpYWxzL2RlZmluaXRpb24td2hhdC1pcy1hLW5ldXRyb24tc3RhctIBAA?hl=en-US\u0026gl=US\u0026ceid=US%3Aen",
+			"Date": "2020-02-12",
+			"related": null
+		},
+		{
+			"relatedTitle": "Inbreeding among the last woolly mammoths may have led to extinction",
+			"relatedAuthor": "CNN",
+			"relatedLink": "https://news.google.com/articles/CAIiEBloBNKL4yd0YKZyCmq1aHEqGQgEKhAIACoHCAowocv1CjCSptoCMPvTpgU?hl=en-US\u0026gl=US\u0026ceid=US%3Aen",
+			"Date": "2020-02-12",
+			"related": null
+		},
+		{
+			"relatedTitle": "Watch a SpaceX launch this weekend from Cape Canaveral",
+			"relatedAuthor": "WKMG News 6 \u0026 ClickOrlando",
+			"relatedLink": "https://news.google.com/articles/CAIiEE8QQ7hFBk6RDQsAE0_Q4GEqGQgEKhAIACoHCAowjsP-CjDlzvYCMJmz3gU?hl=en-US\u0026gl=US\u0026ceid=US%3Aen",
+			"Date": "2020-02-12",
+			"related": [
+				{
+					"relatedTitle": "Weather forecast iffy for SpaceX Starlink launch from Cape Canaveral",
+					"relatedAuthor": "Florida Today",
+					"relatedLink": "https://news.google.com/articles/CAIiEEPL1sdcLSM7PFxMCk4gi_QqGQgEKhAIACoHCAowjsP_CjD2kPkCMMzt5wU?hl=en-US\u0026gl=US\u0026ceid=US%3Aen",
+					"relatedDate": "2020-02-12"
+				},
+				{
+					"relatedTitle": "What that bright convoy of lights orbiting above Gloucestershire is and how to see them for yourself",
+					"relatedAuthor": "Gloucestershire Live",
+					"relatedLink": "https://news.google.com/articles/CAIiEA2hZptM1RzzkUCP4BBYhGQqGQgEKhAIACoHCAowh6H9CjDey_QCMM_n0wU?hl=en-US\u0026gl=US\u0026ceid=US%3Aen",
+					"relatedDate": "2020-02-13"
+				}
+			]
+		},
+		{
+			"relatedTitle": "Black holes echoing through spacetime could be telling us they aren’t what we think they are",
+			"relatedAuthor": "SYFY WIRE",
+			"relatedLink": "https://news.google.com/articles/CAIiEKNd7FQfxuwrFlaDyhV3OVEqGQgEKhAIACoHCAowrq6BCzCw9PwCMMPYyQY?hl=en-US\u0026gl=US\u0026ceid=US%3Aen",
+			"Date": "2020-02-12",
+			"related": null
+		},
+		{
+			"relatedTitle": "Astronomers find a star dive-bombing our galaxy's supermassive black hole",
+			"relatedAuthor": "SYFY WIRE",
+			"relatedLink": "https://news.google.com/articles/CAIiEDvUyl-qoluBRr2nfBntgzkqGQgEKhAIACoHCAowrq6BCzCw9PwCMMTYyQY?hl=en-US\u0026gl=US\u0026ceid=US%3Aen",
+			"Date": "2020-02-12",
+			"related": null
+		},
+		{
+			"relatedTitle": "New class of materials shows strange electron properties",
+			"relatedAuthor": "Phys.org",
+			"relatedLink": "https://news.google.com/articles/CAIiELfsQuRTcyNwHw0tKdWjFjoqFwgEKg8IACoHCAowpbDpAzCm_hwwj9kp?hl=en-US\u0026gl=US\u0026ceid=US%3Aen",
+			"Date": "2020-02-12",
+			"related": null
+		},
+		{
+			"relatedTitle": "A NASA rocket launch will be visible on the East Coast this week. When to watch.",
+			"relatedAuthor": "lehighvalleylive.com",
+			"relatedLink": "https://news.google.com/articles/CAIiENqNsWykJvPqV0oKCIa_NTkqGQgEKhAIACoHCAowgKH_CjC2sfgCMJHGpAY?hl=en-US\u0026gl=US\u0026ceid=US%3Aen",
+			"Date": "2020-02-12",
+			"related": [
+				{
+					"relatedTitle": "NASA Antares rocket launch rescheduled for Friday",
+					"relatedAuthor": "OBXToday.com",
+					"relatedLink": "https://news.google.com/articles/CBMiU2h0dHBzOi8vb2J4dG9kYXkuY29tL3RvcC1zdG9yaWVzL25hc2EtYW50YXJlcy1yb2NrZXQtbGF1bmNoLXJlc2NoZWR1bGVkLWZvci1mcmlkYXkv0gEA?hl=en-US\u0026gl=US\u0026ceid=US%3Aen",
+					"relatedDate": "2020-02-12"
+				},
+				{
+					"relatedTitle": "NASA TV Coverage Set for Feb. 14 Cygnus Launch to Space Station",
+					"relatedAuthor": "Yahoo Finance",
+					"relatedLink": "https://news.google.com/articles/CBMiRmh0dHBzOi8vZmluYW5jZS55YWhvby5jb20vbmV3cy9uYXNhLXR2LWNvdmVyYWdlLXNldC1mZWItMjAwODAwNTk0Lmh0bWzSAU5odHRwczovL2ZpbmFuY2UueWFob28uY29tL2FtcGh0bWwvbmV3cy9uYXNhLXR2LWNvdmVyYWdlLXNldC1mZWItMjAwODAwNTk0Lmh0bWw?hl=en-US\u0026gl=US\u0026ceid=US%3Aen",
+					"relatedDate": "2020-02-12"
+				},
+				{
+					"relatedTitle": "NASA rocket launch may be visible in Lancaster County on Friday; here's how to watch",
+					"relatedAuthor": "LancasterOnline",
+					"relatedLink": "https://news.google.com/articles/CBMikQFodHRwczovL2xhbmNhc3Rlcm9ubGluZS5jb20vbmV3cy9sb2NhbC9uYXNhLXJvY2tldC1sYXVuY2gtbWF5LWJlLXZpc2libGUtaW4tbGFuY2FzdGVyLWNvdW50eS1vbi9hcnRpY2xlXzdiNmZjNjkyLTRkYWYtMTFlYS1iMDgzLTkzNTQxNTY3N2NkOC5odG1s0gEA?hl=en-US\u0026gl=US\u0026ceid=US%3Aen",
+					"relatedDate": "2020-02-12"
+				},
+				{
+					"relatedTitle": "Rescheduled rocket launch set for Friday afternoon: Here's how to watch",
+					"relatedAuthor": "The News Journal",
+					"relatedLink": "https://news.google.com/articles/CAIiEEl5W3F9647pL8td3a7qwjEqGQgEKhAIACoHCAowz8L_CjDllvkCMMf54gU?hl=en-US\u0026gl=US\u0026ceid=US%3Aen",
+					"relatedDate": "2020-02-12"
+				}
+			]
+		},
+		{
+			"relatedTitle": "Asteroid news: Watch as fireball EXPLODES over Canada in stunning footage",
+			"relatedAuthor": "Express.co.uk",
+			"relatedLink": "https://news.google.com/articles/CBMidWh0dHBzOi8vd3d3LmV4cHJlc3MuY28udWsvbmV3cy9zY2llbmNlLzEyNDE1OTIvYXN0ZXJvaWQtbmV3cy1tZXRlb3Itc2hvb3Rpbmctc3Rhci1maXJlYmFsbC1hc3Rlcm9pZHMtdmlkZW8tbmFzYS1iZW5uddIBeWh0dHBzOi8vd3d3LmV4cHJlc3MuY28udWsvbmV3cy9zY2llbmNlLzEyNDE1OTIvYXN0ZXJvaWQtbmV3cy1tZXRlb3Itc2hvb3Rpbmctc3Rhci1maXJlYmFsbC1hc3Rlcm9pZHMtdmlkZW8tbmFzYS1iZW5udS9hbXA?hl=en-US\u0026gl=US\u0026ceid=US%3Aen",
+			"Date": "2020-02-12",
+			"related": [
+				{
+					"relatedTitle": "New video shows asteroid hitting Earth and exploding over Canada [WATCH]",
+					"relatedAuthor": "International Business Times, Singapore Edition",
+					"relatedLink": "https://news.google.com/articles/CBMiX2h0dHBzOi8vd3d3LmlidGltZXMuc2cvbmV3LXZpZGVvLXNob3dzLWFzdGVyb2lkLWhpdHRpbmctZWFydGgtZXhwbG9kaW5nLW92ZXItY2FuYWRhLXdhdGNoLTM5MzE20gFfaHR0cHM6Ly9hbXAuaWJ0aW1lcy5zZy9uZXctdmlkZW8tc2hvd3MtYXN0ZXJvaWQtaGl0dGluZy1lYXJ0aC1leHBsb2Rpbmctb3Zlci1jYW5hZGEtd2F0Y2gtMzkzMTY?hl=en-US\u0026gl=US\u0026ceid=US%3Aen",
+					"relatedDate": "2020-02-13"
+				},
+				{
+					"relatedTitle": "Watch As Asteroid Hits Earth And Forms Bright Fireball Over Canada [VIDEO]",
+					"relatedAuthor": "International Business Times",
+					"relatedLink": "https://news.google.com/articles/CBMiYWh0dHBzOi8vd3d3LmlidGltZXMuY29tL3dhdGNoLWFzdGVyb2lkLWhpdHMtZWFydGgtZm9ybXMtYnJpZ2h0LWZpcmViYWxsLW92ZXItY2FuYWRhLXZpZGVvLTI5MjEzNDLSAWdodHRwczovL3d3dy5pYnRpbWVzLmNvbS93YXRjaC1hc3Rlcm9pZC1oaXRzLWVhcnRoLWZvcm1zLWJyaWdodC1maXJlYmFsbC1vdmVyLWNhbmFkYS12aWRlby0yOTIxMzQyP2FtcD0x?hl=en-US\u0026gl=US\u0026ceid=US%3Aen",
+					"relatedDate": "2020-02-13"
+				},
+				{
+					"relatedTitle": "Bright daytime meteor probably landed near Medicine Hat, experts say",
+					"relatedAuthor": "Calgary Herald",
+					"relatedLink": "https://news.google.com/articles/CBMibWh0dHBzOi8vY2FsZ2FyeWhlcmFsZC5jb20vbmV3cy9sb2NhbC1uZXdzL3RyYWplY3Rvcnktb2YtYnJpZ2h0LWRheXRpbWUtbWV0ZW9yLWNvdWxkLWJlLWRldGVybWluZWQtZXhwZXJ0cy1zYXnSAXFodHRwczovL2NhbGdhcnloZXJhbGQuY29tL25ld3MvbG9jYWwtbmV3cy90cmFqZWN0b3J5LW9mLWJyaWdodC1kYXl0aW1lLW1ldGVvci1jb3VsZC1iZS1kZXRlcm1pbmVkLWV4cGVydHMtc2F5L2FtcA?hl=en-US\u0026gl=US\u0026ceid=US%3Aen",
+					"relatedDate": "2020-02-13"
+				}
+			]
+		},
+		{
+			"relatedTitle": "Mediterranean great white sharks found to have 3.2 million-year-old origins",
+			"relatedAuthor": "Phys.org",
+			"relatedLink": "https://news.google.com/articles/CAIiEHLrhP2nahp7ehrxfjvBYf8qGAgEKg8IACoHCAowpbDpAzCm_hwwgfDGBg?hl=en-US\u0026gl=US\u0026ceid=US%3Aen",
+			"Date": "2020-02-11",
+			"related": null
+		},
+		{
+			"relatedTitle": "Scientist Claims Yellowstone Supervolcano Could Erupt Next Week",
+			"relatedAuthor": "International Business Times",
+			"relatedLink": "https://news.google.com/articles/CBMiX2h0dHBzOi8vd3d3LmlidGltZXMuY29tL3NjaWVudGlzdC1jbGFpbXMteWVsbG93c3RvbmUtc3VwZXJ2b2xjYW5vLWNvdWxkLWVydXB0LW5leHQtd2Vlay0yOTIwNTY30gFlaHR0cHM6Ly93d3cuaWJ0aW1lcy5jb20vc2NpZW50aXN0LWNsYWltcy15ZWxsb3dzdG9uZS1zdXBlcnZvbGNhbm8tY291bGQtZXJ1cHQtbmV4dC13ZWVrLTI5MjA1Njc_YW1wPTE?hl=en-US\u0026gl=US\u0026ceid=US%3Aen",
+			"Date": "2020-02-12",
+			"related": null
+		},
+		{
+			"relatedTitle": "Popular preprint servers face closure because of money troubles",
+			"relatedAuthor": "Nature.com",
+			"relatedLink": "https://news.google.com/articles/CBMiMmh0dHBzOi8vd3d3Lm5hdHVyZS5jb20vYXJ0aWNsZXMvZDQxNTg2LTAyMC0wMDM2My0z0gEA?hl=en-US\u0026gl=US\u0026ceid=US%3Aen",
+			"Date": "2020-02-13",
+			"related": null
+		},
+		{
+			"relatedTitle": "What happens after death? Physicist claims human 'energy' does not die but carries on",
+			"relatedAuthor": "Express.co.uk",
+			"relatedLink": "https://news.google.com/articles/CBMigQFodHRwczovL3d3dy5leHByZXNzLmNvLnVrL25ld3Mvc2NpZW5jZS8xMjQwNjY2L1doYXQtaGFwcGVucy1hZnRlci1kZWF0aC1waHlzaWNzLXByb29mLW9mLWFmdGVybGlmZS1BYXJvbi1GcmVlbWFuLWxpZmUtYWZ0ZXItZGVhdGjSAYUBaHR0cHM6Ly93d3cuZXhwcmVzcy5jby51ay9uZXdzL3NjaWVuY2UvMTI0MDY2Ni9XaGF0LWhhcHBlbnMtYWZ0ZXItZGVhdGgtcGh5c2ljcy1wcm9vZi1vZi1hZnRlcmxpZmUtQWFyb24tRnJlZW1hbi1saWZlLWFmdGVyLWRlYXRoL2FtcA?hl=en-US\u0026gl=US\u0026ceid=US%3Aen",
+			"Date": "2020-02-12",
+			"related": null
+		},
+		{
+			"relatedTitle": "Asteroid warning: NASA tracks a 1KM rock that could kill millions on rapid Earth approach",
+			"relatedAuthor": "Express.co.uk",
+			"relatedLink": "https://news.google.com/articles/CBMiggFodHRwczovL3d3dy5leHByZXNzLmNvLnVrL25ld3Mvc2NpZW5jZS8xMjM3OTYzL0FzdGVyb2lkLWFsZXJ0LU5BU0EtdHJhY2tzLXJvY2std2lwZS1vdXQtY29udGluZW50LWhpdC1FYXJ0aC1hcHByb2FjaC1hc3Rlcm9pZC1uZXdz0gGGAWh0dHBzOi8vd3d3LmV4cHJlc3MuY28udWsvbmV3cy9zY2llbmNlLzEyMzc5NjMvQXN0ZXJvaWQtYWxlcnQtTkFTQS10cmFja3Mtcm9jay13aXBlLW91dC1jb250aW5lbnQtaGl0LUVhcnRoLWFwcHJvYWNoLWFzdGVyb2lkLW5ld3MvYW1w?hl=en-US\u0026gl=US\u0026ceid=US%3Aen",
+			"Date": "2020-02-13",
+			"related": null
+		},
+		{
+			"relatedTitle": "Chernobyl news: Fungi discovered in nuclear reactor which EATS radiation",
+			"relatedAuthor": "Express.co.uk",
+			"relatedLink": "https://news.google.com/articles/CBMibGh0dHBzOi8vd3d3LmV4cHJlc3MuY28udWsvbmV3cy9zY2llbmNlLzEyMzgzMjAvY2hlcm5vYnlsLW5ld3MtcmFkaWF0aW9uLW5hc2EtY2hlcm5vYnlsLW51Y2xlYXItcmVhY3Rvci1mdW5nadIBcGh0dHBzOi8vd3d3LmV4cHJlc3MuY28udWsvbmV3cy9zY2llbmNlLzEyMzgzMjAvY2hlcm5vYnlsLW5ld3MtcmFkaWF0aW9uLW5hc2EtY2hlcm5vYnlsLW51Y2xlYXItcmVhY3Rvci1mdW5naS9hbXA?hl=en-US\u0026gl=US\u0026ceid=US%3Aen",
+			"Date": "2020-02-12",
+			"related": null
+		},
+		{
+			"relatedTitle": "Asteroid news: Watch as fireball EXPLODES above California at 34,672mph",
+			"relatedAuthor": "Express.co.uk",
+			"relatedLink": "https://news.google.com/articles/CBMid2h0dHBzOi8vd3d3LmV4cHJlc3MuY28udWsvbmV3cy9zY2llbmNlLzEyMzcyNzgvYXN0ZXJvaWQtbmV3cy12aWRlby1leHBsb3Npb24tZmlyZWJhbGwtc3BhY2UtYXN0ZXJvaWRzLWltcGFjdC1lYXJ0aC0yMDIw0gF7aHR0cHM6Ly93d3cuZXhwcmVzcy5jby51ay9uZXdzL3NjaWVuY2UvMTIzNzI3OC9hc3Rlcm9pZC1uZXdzLXZpZGVvLWV4cGxvc2lvbi1maXJlYmFsbC1zcGFjZS1hc3Rlcm9pZHMtaW1wYWN0LWVhcnRoLTIwMjAvYW1w?hl=en-US\u0026gl=US\u0026ceid=US%3Aen",
+			"Date": "2020-02-12",
+			"related": null
+		},
+		{
+			"relatedTitle": "Watch: Meteorite strikes factory compound in Rajasthan’s Alwar",
+			"relatedAuthor": "Times of IndiaLatestLY",
+			"relatedLink": "https://news.google.com/articles/CAIiEOt803aODRgVYCuKFib-bR8qGQgEKhAIACoHCAowzrL9CjDC7vQCMJKOrgY?hl=en-US\u0026gl=US\u0026ceid=US%3Aen",
+			"Date": "2020-02-12",
+			"related": [
+				{
+					"relatedTitle": "Rajasthan: Meteorite Crashes in Factory Compound at Alwar Village, Watch Scary Video",
+					"relatedAuthor": "LatestLY",
+					"relatedLink": "https://news.google.com/articles/CAIiELwI6nsHVW-a2XnVwuEbGiQqGQgEKhAIACoHCAow7IeCCzDox_4CMKWSiAY?hl=en-US\u0026gl=US\u0026ceid=US%3Aen",
+					"relatedDate": "2020-02-12"
+				}
+			]
+		},
+		{
+			"relatedTitle": "Asteroid warning: NASA reveals shocking odds of asteroid ending life on Earth",
+			"relatedAuthor": "Express.co.uk",
+			"relatedLink": "https://news.google.com/articles/CBMicmh0dHBzOi8vd3d3LmV4cHJlc3MuY28udWsvbmV3cy9zY2llbmNlLzEyMzU4MjIvYXN0ZXJvaWQtbmV3cy1uYXNhLXdhcm5pbmctc3BhY2UtbGF0ZXN0LWFzdGVyb2lkcy1pbXBhY3QtZWFydGgtMjAyMNIBdmh0dHBzOi8vd3d3LmV4cHJlc3MuY28udWsvbmV3cy9zY2llbmNlLzEyMzU4MjIvYXN0ZXJvaWQtbmV3cy1uYXNhLXdhcm5pbmctc3BhY2UtbGF0ZXN0LWFzdGVyb2lkcy1pbXBhY3QtZWFydGgtMjAyMC9hbXA?hl=en-US\u0026gl=US\u0026ceid=US%3Aen",
+			"Date": "2020-02-13",
+			"related": null
 		}
 	]
 }
