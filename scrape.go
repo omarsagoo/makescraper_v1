@@ -5,10 +5,12 @@ import (
 	"fmt"
 	"io/ioutil"
 	"log"
+	"net/http"
 	"strings"
 	"time"
 
 	"github.com/gocolly/colly"
+	"github.com/labstack/echo"
 	"gopkg.in/gookit/color.v1"
 )
 
@@ -92,7 +94,9 @@ func cardScrape(lpair linkPair) listPair {
 	return pair
 }
 
-func linkScrape() {
+func linkScrape() interface{} {
+	defer timeSince(time.Now())
+
 	c := colly.NewCollector()
 	webLink := "https://news.google.com/"
 	var topicLink string
@@ -149,6 +153,7 @@ func linkScrape() {
 	jsonData := jsonify(dataMap)
 
 	writeJSONFile(jsonData)
+	return dataMap
 }
 
 func jsonify(map[string]interface{}) []byte {
@@ -172,32 +177,30 @@ func worker(links chan linkPair, results chan listPair) {
 	}
 }
 
-func workerResult(results chan listPair, dict map[string]interface{}) map[string]interface{} {
-	for result := range results {
-		dict[result.Topic] = result.Datalist
-	}
-	return dict
-}
-
 func timeSince(start time.Time) {
 	bold := color.Bold.Render
 	success := color.Success.Render
 	since := time.Since(start).Seconds()
 	fmt.Printf("%s: Scraped %s pages in %.2f seconds.\n", success("SUCCESS"), bold(num), since)
 }
+func startServer(jsondata interface{}) {
+	e := echo.New()
+
+	e.GET("/scrape", func(f echo.Context) error {
+		return f.JSON(http.StatusOK, jsondata)
+	})
+
+	e.Logger.Fatal(e.Start(":1323"))
+
+}
 
 // main() contains code adapted from example found in Colly's docs:
 // http://go-colly.org/docs/examples/basic/
 func main() {
 	// Instantiate default collector
-	defer timeSince(time.Now())
 	// e := echo.New()
 
-	linkScrape()
+	json := linkScrape()
 
-	// e.GET("/scrape", func(f echo.Context) error {
-	// 	return f.JSON(http.StatusOK, ls)
-	// })
-
-	// e.Logger.Fatal(e.Start(":1323"))
+	startServer(json)
 }
