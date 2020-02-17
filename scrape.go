@@ -6,8 +6,10 @@ import (
 	"io/ioutil"
 	"log"
 	"strings"
+	"time"
 
 	"github.com/gocolly/colly"
+	"gopkg.in/gookit/color.v1"
 )
 
 type relatedData struct {
@@ -35,6 +37,7 @@ type linkPair struct {
 }
 
 var dataMap map[string]interface{}
+var num int
 
 func cardScrape(lpair linkPair) listPair {
 	cardSelector := "div > div > main > c-wiz > div > div > main > div:first-child"
@@ -107,6 +110,7 @@ func linkScrape() {
 			topicName = k.ChildText("a[href*='./topics'] > div.e20EGc")
 			topicLink = "https://news.google.com" + k.ChildAttr("a[href*='./topics']", "href")[1:]
 			pair := linkPair{Topic: topicName, Link: topicLink}
+			num++
 			links <- pair
 		})
 	})
@@ -175,10 +179,18 @@ func workerResult(results chan listPair, dict map[string]interface{}) map[string
 	return dict
 }
 
+func timeSince(start time.Time) {
+	bold := color.Bold.Render
+	success := color.Success.Render
+	since := time.Since(start).Seconds()
+	fmt.Printf("%s: Scraped %s pages in %.2f seconds.\n", success("SUCCESS"), bold(num), since)
+}
+
 // main() contains code adapted from example found in Colly's docs:
 // http://go-colly.org/docs/examples/basic/
 func main() {
 	// Instantiate default collector
+	defer timeSince(time.Now())
 	// e := echo.New()
 
 	linkScrape()

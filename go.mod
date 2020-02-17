@@ -15,4 +15,5 @@ require (
 	github.com/saintfish/chardet v0.0.0-20120816061221-3af4cd4741ca // indirect
 	github.com/temoto/robotstxt v1.1.1 // indirect
 	google.golang.org/appengine v1.6.5 // indirect
+	gopkg.in/gookit/color.v1 v1.1.6
 )
