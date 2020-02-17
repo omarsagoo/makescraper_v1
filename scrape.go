@@ -109,7 +109,6 @@ func linkScrape() interface{} {
 	results := make(chan listPair, 100)
 
 	c.OnHTML(linkSelector, func(k *colly.HTMLElement) {
-		// fmt.Println(k.Text)
 		k.ForEach("a[href*='./topics']", func(_ int, s *colly.HTMLElement) {
 			topicName = k.ChildText("a[href*='./topics'] > div.e20EGc")
 			topicLink = "https://news.google.com" + k.ChildAttr("a[href*='./topics']", "href")[1:]
@@ -118,7 +117,6 @@ func linkScrape() interface{} {
 			links <- pair
 		})
 	})
-	// Before making a request print "Visiting ..."
 	c.OnRequest(func(r *colly.Request) {
 
 		fmt.Println("Visiting", r.URL.String())
@@ -132,7 +130,6 @@ func linkScrape() interface{} {
 		fmt.Println("Finished", r.Request.URL)
 	})
 
-	// Start scraping on https://hackerspaces.org
 	c.Visit(webLink)
 	go worker(links, results)
 	go worker(links, results)
@@ -194,12 +191,7 @@ func startServer(jsondata interface{}) {
 
 }
 
-// main() contains code adapted from example found in Colly's docs:
-// http://go-colly.org/docs/examples/basic/
 func main() {
-	// Instantiate default collector
-	// e := echo.New()
-
 	json := linkScrape()
 
 	startServer(json)
