@@ -4,52 +4,52 @@ import (
 	"encoding/json"
 	"fmt"
 	"io/ioutil"
-	"log"
 	"net/http"
 	"strings"
 	"time"
 
 	"github.com/gocolly/colly"
 	"github.com/labstack/echo"
+
 	"gopkg.in/gookit/color.v1"
 )
 
-type relatedData struct {
+type relatedArticle struct {
 	RelatedTitle  string `json:"title"`
 	RelatedAuthor string `json:"author"`
 	RelatedLink   string `json:"link"`
 	RelatedDate   string `json:"date"`
 }
 
-type data struct {
-	Title   string        `json:"title"`
-	Author  string        `json:"author"`
-	Link    string        `json:"link"`
-	Date    string        `json:"date"`
-	Related []relatedData `json:"related"`
+type article struct {
+	Title   string           `json:"title"`
+	Author  string           `json:"author"`
+	Link    string           `json:"link"`
+	Date    string           `json:"date"`
+	Related []relatedArticle `json:"related"`
 }
 
 type listPair struct {
-	Topic    string
-	Datalist []data
+	Topic       string
+	ArticleList []article
 }
 type linkPair struct {
 	Topic string
 	Link  string
 }
 
-var dataMap map[string]interface{}
+var articleMap map[string]interface{}
 var num int
 
 func cardScrape(lpair linkPair) listPair {
 	cardSelector := "div > div > main > c-wiz > div > div > main > div:first-child"
-	var relatedList []relatedData
+	var relatedList []relatedArticle
 	var datePosted string
 	var mainTitle string
 	var mainLink string
 	var mainAuthor string
-	var d data
-	var datalist []data
+	var d article
+	var articleList []article
 	y := colly.NewCollector()
 	y.OnHTML(cardSelector, func(s *colly.HTMLElement) {
 		s.ForEach("div.NiLAwe", func(_ int, e *colly.HTMLElement) {
@@ -72,25 +72,17 @@ func cardScrape(lpair linkPair) listPair {
 				relatedTitle := h.ChildText("h4 > a")
 				relatedAuthor := h.ChildText("div > div > a")
 				relatedDate := h.ChildAttr("div > div > time", "datetime")[:10]
-				p := relatedData{RelatedLink: relatedLink, RelatedTitle: relatedTitle, RelatedAuthor: relatedAuthor, RelatedDate: relatedDate}
+				p := relatedArticle{RelatedLink: relatedLink, RelatedTitle: relatedTitle, RelatedAuthor: relatedAuthor, RelatedDate: relatedDate}
 				relatedList = append(relatedList, p)
 			})
-			d = data{Title: mainTitle, Link: mainLink, Author: mainAuthor, Related: relatedList, Date: datePosted}
+			d = article{Title: mainTitle, Link: mainLink, Author: mainAuthor, Related: relatedList, Date: datePosted}
 			relatedList = nil
-			datalist = append(datalist, d)
+			articleList = append(articleList, d)
 		})
 	})
-	y.OnRequest(func(r *colly.Request) {
-		fmt.Println("Visiting", r.URL.String())
-	})
-	y.OnScraped(func(r *colly.Response) {
-		fmt.Println("Finished", r.Request.URL)
-	})
-	y.OnError(func(_ *colly.Response, err error) {
-		log.Println("Something went wrong:", err)
-	})
+
 	y.Visit(lpair.Link)
-	pair := listPair{Topic: lpair.Topic, Datalist: datalist}
+	pair := listPair{Topic: lpair.Topic, ArticleList: articleList}
 	return pair
 }
 
@@ -103,7 +95,7 @@ func linkScrape() interface{} {
 	var topicName string
 
 	linkSelector := "div.gb_zc > div.gb_Ec > div > c-wiz > div > div"
-	dataMap = make(map[string]interface{})
+	articleMap = make(map[string]interface{})
 
 	links := make(chan linkPair, 100)
 	results := make(chan listPair, 100)
@@ -116,18 +108,6 @@ func linkScrape() interface{} {
 			num++
 			links <- pair
 		})
-	})
-	c.OnRequest(func(r *colly.Request) {
-
-		fmt.Println("Visiting", r.URL.String())
-	})
-
-	c.OnError(func(_ *colly.Response, err error) {
-		log.Println("Something went wrong:", err)
-	})
-
-	c.OnScraped(func(r *colly.Response) {
-		fmt.Println("Finished", r.Request.URL)
 	})
 
 	c.Visit(webLink)
@@ -144,17 +124,17 @@ func linkScrape() interface{} {
 	close(links)
 	for i := 1; i < 10; i++ {
 		result := <-results
-		dataMap[strings.ToLower(result.Topic)] = result.Datalist
+		articleMap[strings.ToLower(result.Topic)] = result.ArticleList
 	}
 
-	jsonData := jsonify(dataMap)
+	jsonarticle := jsonify(articleMap)
 
-	writeJSONFile(jsonData)
-	return dataMap
+	writeJSONFile(jsonarticle)
+	return articleMap
 }
 
 func jsonify(map[string]interface{}) []byte {
-	json, err := json.MarshalIndent(dataMap, "", "	")
+	json, err := json.MarshalIndent(articleMap, "", "	")
 	if err != nil {
 		panic(err)
 	}
@@ -180,19 +160,20 @@ func timeSince(start time.Time) {
 	since := time.Since(start).Seconds()
 	fmt.Printf("%s: Scraped %s pages in %.2f seconds.\n", success("SUCCESS"), bold(num), since)
 }
-func startServer(jsondata interface{}) {
+func startServer(jsonarticle interface{}) {
 	e := echo.New()
+	// e.Use(livereload.LiveReload())
 
 	e.GET("/scrape", func(f echo.Context) error {
-		return f.JSON(http.StatusOK, jsondata)
+		return f.JSON(http.StatusOK, jsonarticle)
 	})
 
-	e.Logger.Fatal(e.Start(":1323"))
+	e.Logger.Fatal(e.Start(":5000"))
 
 }
 
 func main() {
 	json := linkScrape()
-
+	// something := make(map[string]interface{})
 	startServer(json)
 }
