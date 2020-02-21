@@ -6,6 +6,7 @@ import (
 	"io/ioutil"
 	"net/http"
 	"strings"
+	"sync"
 	"time"
 
 	"github.com/gocolly/colly"
@@ -18,6 +19,7 @@ import (
 
 // Stores the db value globally to be called
 var dB *gorm.DB
+var mux sync.Mutex
 
 // struct for the related google articles
 type relatedArticle struct {
@@ -57,13 +59,10 @@ var numOfLinks int
 var numOfArticles int
 
 // converts related articles to articles to be stored in the DB
-func convertAndStore(related relatedArticle) {
+func convertAndStore(related relatedArticle, googleArticle chan article) {
 	rArticle := article{Title: related.RelatedTitle, Topic: related.RelatedTopic, Author: related.RelatedAuthor, Link: related.RelatedLink, Date: related.RelatedDate}
-
-	check := dB.NewRecord(&rArticle)
-	if check == true {
-		dB.Create(&rArticle)
-	}
+	googleArticle <- rArticle
+	go articleWorker(googleArticle)
 
 }
 
@@ -77,6 +76,7 @@ func cardScrape(lpair linkPair) listPair {
 	var mainAuthor string
 	var d article
 	var articleList []article
+	googleArticle := make(chan article, 2400)
 
 	y := colly.NewCollector()
 	y.OnHTML(cardSelector, func(s *colly.HTMLElement) {
@@ -107,22 +107,27 @@ func cardScrape(lpair linkPair) listPair {
 				relatedAuthor := h.ChildText("div > div > a")
 				relatedDate := h.ChildAttr("div > div > time", "datetime")[:10]
 				p := relatedArticle{RelatedTopic: lpair.Topic, RelatedLink: relatedLink, RelatedTitle: relatedTitle, RelatedAuthor: relatedAuthor, RelatedDate: relatedDate}
-				convertAndStore(p)
+				convertAndStore(p, googleArticle)
 				relatedList = append(relatedList, p)
 			})
 			d = article{Topic: lpair.Topic, Title: mainTitle, Link: mainLink, Author: mainAuthor, Related: relatedList, Date: datePosted}
-
-			check := dB.NewRecord(&d)
-			if check == true {
-				dB.Create(&d)
-			}
+			articleList = append(articleList, d)
+			googleArticle <- d
 
 			relatedList = nil
-			articleList = append(articleList, d)
 		})
+
 	})
 
 	y.Visit(lpair.Link)
+
+	go articleWorker(googleArticle)
+	go articleWorker(googleArticle)
+	go articleWorker(googleArticle)
+	go articleWorker(googleArticle)
+	go articleWorker(googleArticle)
+	close(googleArticle)
+
 	pair := listPair{Topic: lpair.Topic, ArticleList: articleList}
 	return pair
 }
@@ -154,7 +159,6 @@ func linkScrape() interface{} {
 	})
 
 	c.Visit(webLink)
-
 	go worker(links, results)
 	go worker(links, results)
 	go worker(links, results)
@@ -163,6 +167,7 @@ func linkScrape() interface{} {
 	go worker(links, results)
 
 	close(links)
+
 	for i := 1; i < 10; i++ {
 		result := <-results
 		articleMap[strings.ToLower(result.Topic)] = result.ArticleList
@@ -198,6 +203,26 @@ func worker(links chan linkPair, results chan listPair) {
 	}
 }
 
+func articleWorker(googleArticles chan article) {
+	// fmt.Println("hello")
+	for article := range googleArticles {
+		dbCreate(article)
+	}
+}
+
+// creates a row in the db for the article as long as the link to it is not already in there.
+// does not allow duplicates to enter the DB.
+func dbCreate(d article) {
+	var article article
+	dB.Where("link = ?", d.Link).Find(&article)
+	if article.Link == "" {
+		mux.Lock()
+		dB.Create(&d)
+		mux.Unlock()
+	}
+
+}
+
 // prints out a line displaying the number of pages and articles scraped in the amount of time
 func timeSince(start time.Time) {
 	bold := color.Bold.Render
@@ -227,8 +252,10 @@ func main() {
 	defer db.Close()
 	dB = db
 	db.AutoMigrate(&article{})
-
 	jsonData := linkScrape()
+	var article article
 
+	dB.Where("title = ?", "omars home").Find(&article)
+	fmt.Println(article.Link)
 	startServer(jsonData)
 }
