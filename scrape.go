@@ -253,9 +253,7 @@ func main() {
 	dB = db
 	db.AutoMigrate(&article{})
 	jsonData := linkScrape()
-	var article article
+	// var article article
 
-	dB.Where("title = ?", "omars home").Find(&article)
-	fmt.Println(article.Link)
 	startServer(jsonData)
 }
